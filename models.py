@@ -24,5 +24,5 @@ class Order(BaseModel):
     status: OrderStatus = Field(..., title="Order Status")
     carrier: Carrier = Field(..., title="Order Carrier")
     urgency: int = Field(..., ge=1, le=5, title="Urgency 1-5")
-    created_at: datetime = Field(..., title="Created At UTC")
+    created_at: Optional[datetime] = Field(None, title="Created At UTC")
     area: str = Field(..., title="Delivery Area (e.g., Gachibowli)")

@@ -1,12 +1,14 @@
 import uuid
 import logging
-from fastapi import FastAPI, WebSocket, WebSocketDisconnect, HTTPException, BackgroundTasks
+from fastapi import FastAPI, WebSocket, WebSocketDisconnect, HTTPException, BackgroundTasks, Depends, status
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
 from typing import List, Dict, Optional
 from datetime import datetime
 from models import Order, OrderStatus
 from database import orders_collection, db
+from auth import (create_access_token, authenticate_user, get_current_active_user, oauth2_scheme)
+from fastapi.security import OAuth2PasswordRequestForm
 
 # Logging setup
 logging.basicConfig(filename='app.log', level=logging.INFO,
@@ -16,7 +18,7 @@ app = FastAPI(title="Realtime Logistics Dashboard")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["http://localhost:3000", "http://localhost:3004", "http://localhost:8000"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -43,11 +45,27 @@ class ConnectionManager:
 
 manager = ConnectionManager()
 
-def insert_order_to_db(order_dict: Dict):
-    orders_collection.insert_one(order_dict)
+@app.post("/token")
+async def login(form_data: OAuth2PasswordRequestForm = Depends()):
+    user = await authenticate_user(form_data.username, form_data.password)
+    if not user:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Incorrect username or password",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
+    access_token = create_access_token(data={"sub": form_data.username})
+    return {"access_token": access_token, "token_type": "bearer"}
+
+async def insert_order_to_db(order_dict: Dict):
+    try:
+        await orders_collection.insert_one(order_dict)
+        logging.info(f"Order {order_dict['id']} saved to MongoDB.")
+    except Exception as e:
+        logging.error(f"Database Error: {e}")
 
 @app.post("/orders/simulate", response_model=Order)
-async def simulate_order(payload: Order, background_tasks: BackgroundTasks):
+async def simulate_order(payload: Order, background_tasks: BackgroundTasks, current_user: dict = Depends(get_current_active_user)):
     logging.info(f"Received order simulation payload: {payload}")
 
     order_dict = payload.dict()
@@ -55,6 +73,7 @@ async def simulate_order(payload: Order, background_tasks: BackgroundTasks):
     if not order_dict.get("created_at"):
         order_dict["created_at"] = datetime.utcnow()
 
+    # schedule async insertion and broadcast now
     background_tasks.add_task(insert_order_to_db, order_dict.copy())
 
     order_dict["created_at"] = order_dict["created_at"].isoformat()
@@ -63,10 +82,14 @@ async def simulate_order(payload: Order, background_tasks: BackgroundTasks):
     return order_dict
 
 @app.get("/orders", response_model=List[Order])
-async def list_orders(limit: int = 50, skip: int = 0):
+async def list_orders(limit: int = 50, skip: int = 0, current_user: dict = Depends(get_current_active_user)):
     orders = []
     cursor = orders_collection.find().sort("created_at", -1).skip(skip).limit(limit)
     async for order in cursor:
+        order["id"] = str(order.get("_id"))
+        # keep created_at in datetime or iso if needed
+        if isinstance(order.get("created_at"), datetime):
+            order["created_at"] = order["created_at"]
         orders.append(Order(**order))
     return orders
 
@@ -82,11 +105,15 @@ async def update_order(order_id: str, update: Dict[str, Optional[str]]):
 
     await orders_collection.update_one({"id": order_id}, {"$set": update})
     updated = await orders_collection.find_one({"id": order_id})
-    await manager.broadcast({**updated, "created_at": updated["created_at"].isoformat() if isinstance(updated.get("created_at"), datetime) else updated.get("created_at")})
+    updated["id"] = str(updated.get("_id"))
+    if isinstance(updated.get("created_at"), datetime):
+        updated["created_at"] = updated["created_at"].isoformat()
+
+    await manager.broadcast(updated)
     return Order(**updated)
 
 @app.get("/orders/optimized-route", response_model=List[Order])
-async def get_optimized_route(w1: float = 1.0, w2: float = 1.0):
+async def get_optimized_route(w1: float = 1.0, w2: float = 1.0, current_user: dict = Depends(get_current_active_user)):
     orders = []
     async for order in orders_collection.find({"status": "Pending"}):
         orders.append(Order(**order))

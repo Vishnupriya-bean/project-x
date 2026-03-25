@@ -8,13 +8,16 @@ import Footer from './components/Footer.jsx';
 import AreaSummary from './components/AreaSummary.jsx';
 import CarrierLogs from './components/CarrierLogs.jsx';
 import Highlights from './components/Highlights.jsx';
+import Login from './components/Login.jsx';
 
 function App() {
+    const [token, setToken] = useState(localStorage.getItem('token'));
     const [orders, setOrders] = useState([]);
     const [logs, setLogs] = useState([]);
     const [connected, setConnected] = useState(false);
 
     useEffect(() => {
+        if (!token) return;
         const socket = new WebSocket('ws://localhost:8000/ws/orders');
         socket.onopen = () => setConnected(true);
         socket.onmessage = (event) => {
@@ -26,35 +29,56 @@ function App() {
             });
         };
         return () => socket.close();
-    }, []);
+    }, [token]);
+
+    if (!token) {
+        return <Login setToken={(newToken) => { localStorage.setItem('token', newToken); setToken(newToken); }} />;
+    }
 
     const simulateOrder = async () => {
-        const payloads = [
-            { name: "Biryani Pack", carrier: "DHL", urgency: 5 },
-            { name: "Tech Bundle", carrier: "UPS", urgency: 2 },
-            { name: "Grocery Box", carrier: "DPD", urgency: 3 }
-        ];
-        const pick = payloads[Math.floor(Math.random() * payloads.length)];
-        const areas = ["Gachibowli", "Kukatpally", "Banjara Hills", "Charminar"];
-        const randomArea = areas[Math.floor(Math.random() * areas.length)];
+        console.log("Button Clicked: Preparing payload...");
 
-        await fetch('http://localhost:8000/orders/simulate', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                product_name: pick.name,
-                quantity: 1,
-                status: "Pending",
-                carrier: pick.carrier,
-                urgency: pick.urgency,
-                area: randomArea,
-                created_at: new Date().toISOString()
-            }),
-        });
+        const areas = ["Gachibowli", "Kukatpally", "Banjara Hills", "Charminar"];
+        const fakeOrder = {
+            product_name: "Hyderabad Biryani Kit",
+            quantity: Math.floor(Math.random() * 5) + 1,
+            status: "Pending",
+            carrier: "DHL",
+            urgency: Math.floor(Math.random() * 5) + 1,
+            area: areas[Math.floor(Math.random() * areas.length)],
+            created_at: new Date().toISOString(),
+        };
+
+        try {
+            const response = await fetch('http://localhost:8000/orders/simulate', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    Authorization: `Bearer ${token}`,
+                },
+                body: JSON.stringify(fakeOrder),
+            });
+
+            if (!response.ok) {
+                const errorData = await response.json();
+                console.error('Backend Rejected Order:', errorData);
+                alert(`Simulate failed (status ${response.status}): ${JSON.stringify(errorData.detail || errorData)}`);
+                return;
+            }
+
+            const data = await response.json();
+            console.log('Order Simulated Successfully ✅', data);
+        } catch (err) {
+            console.error('Network/CORS Error: Is FastAPI running on 8000?', err);
+            alert('Network/CORS error: check backend socket and CORS settings.');
+        }
     };
 
     return (
         <div style={{ background: '#f0f2f5', minHeight: '100vh', fontFamily: 'Inter, sans-serif' }}>
+            {/* 0. Hero Full-Screen Highlights */}
+            <Highlights />
+
             {/* 1. Top Navigation Bar */}
             <nav style={{ background: '#fff', padding: '15px 30px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', boxShadow: '0 2px 4px rgba(0,0,0,0.05)' }}>
                 <h2 style={{ color: '#1e3a8a', margin: 0 }}>Smart Logistics <span style={{ fontSize: '14px', color: '#666' }}>Hyderabad</span></h2>
@@ -65,6 +89,9 @@ function App() {
                     </div>
                     <button onClick={simulateOrder} style={{ background: '#1e3a8a', color: '#fff', border: 'none', padding: '10px 20px', borderRadius: '8px', cursor: 'pointer', fontWeight: 'bold' }}>
                         + Simulate Order
+                    </button>
+                    <button onClick={() => { localStorage.removeItem('token'); setToken(null); }} style={{ background: '#e74c3c', color: '#fff', border: 'none', padding: '10px 20px', borderRadius: '8px', cursor: 'pointer', fontWeight: 'bold' }}>
+                        Logout
                     </button>
                 </div>
             </nav>
@@ -79,8 +106,6 @@ function App() {
                 <Carousel logs={logs} />
                 {/* 3. Live Stat Cards */}
                 <StatCards orders={orders} />
-                {/* Highlights */}
-                <Highlights />
 
                 {/* 4. Data & Logs Row */}
                 <div style={{ display: 'grid', gridTemplateColumns: '2fr 1fr 1fr', gap: '20px', margin: '20px 0' }}>
