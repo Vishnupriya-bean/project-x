@@ -37,3 +37,1559 @@
 2026-03-25 23:34:48,933 INFO MongoDB indexes ensured
 2026-03-25 23:36:09,369 INFO MongoDB indexes ensured
 2026-03-25 23:40:45,934 INFO MongoDB indexes ensured
+2026-03-25 23:45:28,757 INFO MongoDB indexes ensured
+2026-03-25 23:50:04,115 INFO MongoDB indexes ensured
+2026-03-25 23:50:04,138 INFO MongoDB indexes ensured
+2026-03-25 23:50:04,165 INFO MongoDB indexes ensured
+2026-03-25 23:50:04,178 INFO MongoDB indexes ensured
+2026-03-25 23:50:04,186 INFO MongoDB indexes ensured
+2026-03-25 23:50:11,280 INFO MongoDB indexes ensured
+2026-03-25 23:50:11,303 INFO MongoDB indexes ensured
+2026-03-25 23:50:11,308 INFO MongoDB indexes ensured
+2026-03-25 23:50:11,404 INFO MongoDB indexes ensured
+2026-03-25 23:50:11,461 INFO MongoDB indexes ensured
+2026-03-25 23:50:19,226 INFO MongoDB indexes ensured
+2026-03-25 23:50:19,268 INFO MongoDB indexes ensured
+2026-03-25 23:50:19,290 INFO MongoDB indexes ensured
+2026-03-25 23:50:19,296 INFO MongoDB indexes ensured
+2026-03-25 23:50:19,303 INFO MongoDB indexes ensured
+2026-03-25 23:50:25,612 INFO MongoDB indexes ensured
+2026-03-25 23:50:25,663 INFO MongoDB indexes ensured
+2026-03-25 23:50:25,782 INFO MongoDB indexes ensured
+2026-03-25 23:50:25,819 INFO MongoDB indexes ensured
+2026-03-25 23:50:25,889 INFO MongoDB indexes ensured
+2026-03-25 23:50:44,863 INFO MongoDB indexes ensured
+2026-03-25 23:50:44,976 INFO MongoDB indexes ensured
+2026-03-25 23:50:45,076 INFO MongoDB indexes ensured
+2026-03-25 23:50:45,096 INFO MongoDB indexes ensured
+2026-03-25 23:50:45,236 INFO MongoDB indexes ensured
+2026-03-25 23:50:51,065 INFO MongoDB indexes ensured
+2026-03-25 23:50:51,082 INFO MongoDB indexes ensured
+2026-03-25 23:50:51,333 INFO MongoDB indexes ensured
+2026-03-25 23:50:51,342 INFO MongoDB indexes ensured
+2026-03-25 23:50:51,373 INFO MongoDB indexes ensured
+2026-03-25 23:51:16,530 INFO MongoDB indexes ensured
+2026-03-25 23:51:58,124 INFO MongoDB indexes ensured
+2026-03-25 23:51:58,281 INFO MongoDB indexes ensured
+2026-03-25 23:51:58,484 INFO MongoDB indexes ensured
+2026-03-25 23:51:58,565 INFO MongoDB indexes ensured
+2026-03-25 23:51:58,570 INFO MongoDB indexes ensured
+2026-03-25 23:52:02,276 INFO MongoDB indexes ensured
+2026-03-25 23:52:05,592 INFO MongoDB indexes ensured
+2026-03-25 23:52:05,600 INFO MongoDB indexes ensured
+2026-03-25 23:52:05,700 INFO MongoDB indexes ensured
+2026-03-25 23:52:05,762 INFO MongoDB indexes ensured
+2026-03-25 23:52:05,793 INFO MongoDB indexes ensured
+2026-03-25 23:52:08,940 INFO MongoDB indexes ensured
+2026-03-25 23:52:12,371 INFO MongoDB indexes ensured
+2026-03-25 23:52:12,576 INFO MongoDB indexes ensured
+2026-03-25 23:52:12,590 INFO MongoDB indexes ensured
+2026-03-25 23:52:12,596 INFO MongoDB indexes ensured
+2026-03-25 23:52:12,640 INFO MongoDB indexes ensured
+2026-03-25 23:58:21,905 INFO MongoDB indexes ensured
+2026-03-25 23:58:21,911 INFO MongoDB indexes ensured
+2026-03-25 23:58:22,019 INFO MongoDB indexes ensured
+2026-03-25 23:58:22,144 INFO MongoDB indexes ensured
+2026-03-25 23:58:30,074 INFO MongoDB indexes ensured
+2026-03-25 23:58:30,176 INFO MongoDB indexes ensured
+2026-03-25 23:58:30,238 INFO MongoDB indexes ensured
+2026-03-25 23:58:30,329 INFO MongoDB indexes ensured
+2026-03-25 23:58:38,240 INFO MongoDB indexes ensured
+2026-03-25 23:59:19,350 INFO MongoDB indexes ensured
+2026-03-26 00:00:03,725 INFO MongoDB indexes ensured
+2026-03-26 00:00:03,725 INFO MongoDB indexes ensured
+2026-03-26 00:00:03,757 INFO MongoDB indexes ensured
+2026-03-26 00:00:19,607 INFO MongoDB indexes ensured
+2026-03-26 00:00:19,629 INFO MongoDB indexes ensured
+2026-03-26 00:00:19,635 INFO MongoDB indexes ensured
+2026-03-26 00:00:19,711 INFO MongoDB indexes ensured
+2026-03-26 00:00:25,530 INFO MongoDB indexes ensured
+2026-03-26 00:04:20,866 INFO MongoDB indexes ensured
+2026-03-26 00:06:18,286 INFO MongoDB indexes ensured
+2026-03-26 00:06:18,305 INFO MongoDB indexes ensured
+2026-03-26 00:06:18,328 INFO MongoDB indexes ensured
+2026-03-26 00:06:18,420 INFO MongoDB indexes ensured
+2026-03-26 00:06:25,512 INFO MongoDB indexes ensured
+2026-03-26 00:06:25,561 INFO MongoDB indexes ensured
+2026-03-26 00:06:25,598 INFO MongoDB indexes ensured
+2026-03-26 00:06:25,631 INFO MongoDB indexes ensured
+2026-03-26 00:06:58,408 INFO MongoDB indexes ensured
+2026-03-26 00:07:06,568 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 6, 528000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:06,600 INFO Order 737b7b37-3d10-40f8-8c90-75741b10061c saved to MongoDB.
+2026-03-26 00:07:06,931 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=1 created_at=datetime.datetime(2026, 3, 25, 18, 37, 6, 903000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:06,958 INFO Order 37e18254-4fa7-44eb-8ba4-0d854561191b saved to MongoDB.
+2026-03-26 00:07:07,911 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 7, 879000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:07,939 INFO Order 3fb6a348-d928-445e-b436-19ad09f750af saved to MongoDB.
+2026-03-26 00:07:08,134 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 8, 105000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:07:08,159 INFO Order fd1365d8-310b-4c99-970a-f6a88a8d0c56 saved to MongoDB.
+2026-03-26 00:07:08,795 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 8, 765000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:08,821 INFO Order 83ca5fb6-97dd-40f3-867d-8bf0bd5ff79c saved to MongoDB.
+2026-03-26 00:07:09,021 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=1 created_at=datetime.datetime(2026, 3, 25, 18, 37, 8, 992000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:09,048 INFO Order cbe11cde-38a8-4bac-b5c0-1769b3b0afb9 saved to MongoDB.
+2026-03-26 00:07:09,836 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 37, 9, 808000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:09,868 INFO Order d8a290e0-4642-4da0-933e-85649eb2cbf3 saved to MongoDB.
+2026-03-26 00:07:09,996 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 9, 971000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:07:10,023 INFO Order d2cfe9ba-b013-4ad2-9d3e-a7b0273d2325 saved to MongoDB.
+2026-03-26 00:07:10,224 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 37, 10, 195000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:10,250 INFO Order e3a0ae9d-0646-4663-bce5-d7fb1d0d43e9 saved to MongoDB.
+2026-03-26 00:07:11,166 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 11, 136000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:11,196 INFO Order 957aa6fd-3ac6-43b4-a7d8-7682923a24e2 saved to MongoDB.
+2026-03-26 00:07:11,385 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 11, 359000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:07:11,415 INFO Order 833f404b-bbaa-4550-957f-ad3284eedf77 saved to MongoDB.
+2026-03-26 00:07:11,608 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=1 created_at=datetime.datetime(2026, 3, 25, 18, 37, 11, 582000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:11,634 INFO Order cb23dc00-4e48-4ea1-be16-d88ef1c3b72e saved to MongoDB.
+2026-03-26 00:07:12,332 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 created_at=datetime.datetime(2026, 3, 25, 18, 37, 12, 303000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:07:12,360 INFO Order f88e6c2e-8f90-41da-8833-18c5cb5d8c8f saved to MongoDB.
+2026-03-26 00:07:12,563 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 12, 536000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:12,593 INFO Order 17294664-7fce-4612-af9a-9fb69dd537e3 saved to MongoDB.
+2026-03-26 00:07:14,195 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 14, 169000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:07:14,222 INFO Order 22514889-9ed7-4c90-860b-4a0c80480074 saved to MongoDB.
+2026-03-26 00:07:14,448 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 14, 421000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:14,476 INFO Order 698f715b-4c8d-4068-bc76-7452d5754cfb saved to MongoDB.
+2026-03-26 00:07:14,698 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 14, 671000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:07:14,730 INFO Order 9cc6710a-1e8f-4602-9e1e-926a0c40db7b saved to MongoDB.
+2026-03-26 00:07:14,863 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 14, 834000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:14,893 INFO Order a29872a5-0965-4bd0-ac34-c479036c7e2c saved to MongoDB.
+2026-03-26 00:07:15,240 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 37, 15, 211000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:15,265 INFO Order 02733182-ad19-4eae-8e5a-2388abb69471 saved to MongoDB.
+2026-03-26 00:07:15,486 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 15, 460000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:15,511 INFO Order 402af15f-b401-47f7-b657-440713b949a1 saved to MongoDB.
+2026-03-26 00:07:15,622 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 37, 15, 591000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:15,648 INFO Order 23071d36-50e6-4378-90ce-1a16511f06b5 saved to MongoDB.
+2026-03-26 00:07:15,932 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 15, 904000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:15,961 INFO Order 6815d9dc-5258-4350-8d7e-c664dc89970e saved to MongoDB.
+2026-03-26 00:07:16,164 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 16, 135000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:16,196 INFO Order 1330d8b2-924d-4f74-93f6-eb7b37e840e6 saved to MongoDB.
+2026-03-26 00:07:17,404 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 17, 367000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:17,432 INFO Order b00cd1b4-a51e-42d0-9bd4-2e64b1aec96a saved to MongoDB.
+2026-03-26 00:07:17,649 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 17, 619000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:17,676 INFO Order 4cd86a8a-596c-4744-8e14-f1a96cf476b4 saved to MongoDB.
+2026-03-26 00:07:17,866 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 17, 840000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:17,894 INFO Order a394ecb1-60c2-42f8-883c-c10a7da3cd22 saved to MongoDB.
+2026-03-26 00:07:26,928 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 37, 26, 901000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:26,955 INFO Order 867ff4ec-affd-42b9-93ae-393e58061f7c saved to MongoDB.
+2026-03-26 00:07:50,409 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 50, 378000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:50,433 INFO Order 155a60e6-6649-40ed-bc35-6d643035d89e saved to MongoDB.
+2026-03-26 00:07:52,485 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=1 created_at=datetime.datetime(2026, 3, 25, 18, 37, 52, 458000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:52,515 INFO Order 7e18a880-4a5a-4a3d-a1d6-c227507c6d73 saved to MongoDB.
+2026-03-26 00:07:53,125 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 created_at=datetime.datetime(2026, 3, 25, 18, 37, 53, 96000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:07:53,154 INFO Order 15692ff7-12ff-4b67-9e20-e8be1845df95 saved to MongoDB.
+2026-03-26 00:07:53,527 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 created_at=datetime.datetime(2026, 3, 25, 18, 37, 53, 501000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:53,561 INFO Order a5cd6c83-f5a5-4961-84e9-875231e5c414 saved to MongoDB.
+2026-03-26 00:07:53,752 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 53, 723000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:07:53,777 INFO Order 46cee041-0165-4a6b-97da-ae10a554d7b0 saved to MongoDB.
+2026-03-26 00:07:53,937 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 53, 910000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:53,964 INFO Order 28b6eb5d-54e1-465c-9458-d05dd4097cae saved to MongoDB.
+2026-03-26 00:07:54,097 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 created_at=datetime.datetime(2026, 3, 25, 18, 37, 54, 70000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:54,121 INFO Order def7bdab-e147-495d-889f-46a6c7e76394 saved to MongoDB.
+2026-03-26 00:07:54,322 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 54, 296000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:54,349 INFO Order 5fba455e-8150-44f3-b1cc-820a13e3e238 saved to MongoDB.
+2026-03-26 00:07:54,509 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 37, 54, 481000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:54,535 INFO Order 3ce86730-fc22-4df2-bc9a-8e4e9b04fe37 saved to MongoDB.
+2026-03-26 00:07:54,693 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 54, 667000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:54,717 INFO Order 2f801261-dee5-4c5f-a402-a2441a56b25a saved to MongoDB.
+2026-03-26 00:07:54,925 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 54, 890000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:54,953 INFO Order eae5af78-e021-4bd1-a046-e82dfd050896 saved to MongoDB.
+2026-03-26 00:07:55,108 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 created_at=datetime.datetime(2026, 3, 25, 18, 37, 55, 80000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:55,137 INFO Order 2f8edf94-7f7a-4f1c-af65-6c950061b654 saved to MongoDB.
+2026-03-26 00:07:55,336 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 37, 55, 307000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:07:55,363 INFO Order 1296ecee-528a-4c6b-8fb9-3a4074939ec3 saved to MongoDB.
+2026-03-26 00:07:56,808 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 56, 780000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:56,835 INFO Order 1dbd35a3-2958-460c-86b8-a90677b22519 saved to MongoDB.
+2026-03-26 00:07:58,141 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 58, 110000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:58,173 INFO Order 382f64e5-e8f5-43cd-b6e2-13aa98ba461a saved to MongoDB.
+2026-03-26 00:07:58,321 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=1 created_at=datetime.datetime(2026, 3, 25, 18, 37, 58, 296000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:58,348 INFO Order 9fb4bf18-0849-4943-bb34-4d199252bd1b saved to MongoDB.
+2026-03-26 00:07:58,547 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 created_at=datetime.datetime(2026, 3, 25, 18, 37, 58, 518000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:58,576 INFO Order 6fcf8be7-ca7a-450a-b8a1-178996adc99a saved to MongoDB.
+2026-03-26 00:07:58,776 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 58, 746000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:58,805 INFO Order 2d0db599-4100-4b4c-b40d-79a535765b52 saved to MongoDB.
+2026-03-26 00:07:58,922 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 created_at=datetime.datetime(2026, 3, 25, 18, 37, 58, 898000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:07:58,950 INFO Order d0a247ad-a26d-4338-bedd-0dcad171169f saved to MongoDB.
+2026-03-26 00:07:59,116 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 59, 90000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:59,144 INFO Order 4c06a722-f5a7-48f7-aafe-eaac0415edd1 saved to MongoDB.
+2026-03-26 00:07:59,307 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 59, 279000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:07:59,334 INFO Order 133a789c-d85d-4429-a9e2-dfaa60808bdb saved to MongoDB.
+2026-03-26 00:07:59,498 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 59, 471000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:59,524 INFO Order 116bf2d4-6857-425f-810e-0bba5b57ea3c saved to MongoDB.
+2026-03-26 00:07:59,722 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 37, 59, 695000, tzinfo=TzInfo(UTC)) area='Banjara Hills'
+2026-03-26 00:07:59,746 INFO Order ff08871f-d92e-4805-a3b4-9f567317b8a8 saved to MongoDB.
+2026-03-26 00:07:59,908 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 37, 59, 880000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:07:59,936 INFO Order 8e7d6553-ed27-4a3d-92d3-50fea53156b6 saved to MongoDB.
+2026-03-26 00:08:00,094 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 38, 0, 71000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:08:00,118 INFO Order 5d0249cd-27c1-45b9-b8a4-df15964f025d saved to MongoDB.
+2026-03-26 00:08:00,250 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 38, 0, 223000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:08:00,274 INFO Order c5ba3c2d-51d5-4841-9fa3-c34e5c735b22 saved to MongoDB.
+2026-03-26 00:08:00,471 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 38, 0, 446000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:08:00,496 INFO Order 280048ab-f019-4ac1-b5b8-6daf5a6bdbeb saved to MongoDB.
+2026-03-26 00:08:00,629 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 38, 0, 603000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:08:00,656 INFO Order 7a07711e-d26f-493a-82c5-92a9f0418d4f saved to MongoDB.
+2026-03-26 00:08:00,856 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=5 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 38, 0, 829000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:08:00,881 INFO Order c0e07ae0-0218-44ae-92a2-f2f3b6c7412e saved to MongoDB.
+2026-03-26 00:08:01,010 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 38, 0, 984000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:08:01,038 INFO Order 8466300e-4998-4f1a-92d6-c8e4e367024b saved to MongoDB.
+2026-03-26 00:08:01,232 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 created_at=datetime.datetime(2026, 3, 25, 18, 38, 1, 203000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:08:01,256 INFO Order 48413818-d305-4701-851b-c888b3d5353d saved to MongoDB.
+2026-03-26 00:08:01,417 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 38, 1, 390000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:08:01,443 INFO Order e4556557-2b26-44ed-bb63-054d0cc09891 saved to MongoDB.
+2026-03-26 00:08:01,612 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=2 created_at=datetime.datetime(2026, 3, 25, 18, 38, 1, 585000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:08:01,639 INFO Order 26a392bf-aa92-4984-9e0e-77beda7c63c2 saved to MongoDB.
+2026-03-26 00:08:01,796 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 created_at=datetime.datetime(2026, 3, 25, 18, 38, 1, 770000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:08:01,822 INFO Order 416f6029-d8de-489e-b6f2-a227dd5dca01 saved to MongoDB.
+2026-03-26 00:08:01,997 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 38, 1, 967000, tzinfo=TzInfo(UTC)) area='Kukatpally'
+2026-03-26 00:08:02,026 INFO Order 4f238959-ee7a-4af4-910b-03db5194a9ad saved to MongoDB.
+2026-03-26 00:08:02,156 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=2 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 38, 2, 124000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 00:08:02,186 INFO Order 232b654e-f9a8-4dcb-8f53-3c288e3ab9d4 saved to MongoDB.
+2026-03-26 00:08:02,372 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=4 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=5 created_at=datetime.datetime(2026, 3, 25, 18, 38, 2, 344000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:08:02,398 INFO Order 2fac7cb3-4bfc-43bb-93cc-29df513c7523 saved to MongoDB.
+2026-03-26 00:08:02,556 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=4 created_at=datetime.datetime(2026, 3, 25, 18, 38, 2, 530000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:08:02,584 INFO Order c908c9d1-4e3a-4286-a2e0-a38d5a25a595 saved to MongoDB.
+2026-03-26 00:08:02,788 INFO Received order simulation payload: id=None product_name='Hyderabad Biryani Kit' quantity=3 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=1 created_at=datetime.datetime(2026, 3, 25, 18, 38, 2, 758000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 00:08:02,815 INFO Order 0677aeda-a74a-480f-943a-784d5ecef2e3 saved to MongoDB.
+2026-03-26 00:18:06,412 INFO MongoDB indexes ensured
+2026-03-26 00:18:06,449 INFO MongoDB indexes ensured
+2026-03-26 00:18:06,459 INFO MongoDB indexes ensured
+2026-03-26 00:18:06,510 INFO MongoDB indexes ensured
+2026-03-26 00:18:16,030 INFO MongoDB indexes ensured
+2026-03-26 00:18:16,106 INFO MongoDB indexes ensured
+2026-03-26 00:18:16,240 INFO MongoDB indexes ensured
+2026-03-26 00:18:16,246 INFO MongoDB indexes ensured
+2026-03-26 00:18:27,548 INFO MongoDB indexes ensured
+2026-03-26 00:18:27,589 INFO MongoDB indexes ensured
+2026-03-26 00:18:27,650 INFO MongoDB indexes ensured
+2026-03-26 00:18:27,771 INFO MongoDB indexes ensured
+2026-03-26 00:18:48,031 INFO MongoDB indexes ensured
+2026-03-26 00:18:48,057 INFO MongoDB indexes ensured
+2026-03-26 00:18:48,164 INFO MongoDB indexes ensured
+2026-03-26 00:18:48,184 INFO MongoDB indexes ensured
+2026-03-26 00:18:54,827 INFO MongoDB indexes ensured
+2026-03-26 00:18:54,846 INFO MongoDB indexes ensured
+2026-03-26 00:18:54,906 INFO MongoDB indexes ensured
+2026-03-26 00:18:56,612 INFO MongoDB indexes ensured
+2026-03-26 00:19:29,567 INFO MongoDB indexes ensured
+2026-03-26 00:41:15,254 INFO MongoDB indexes ensured
+2026-03-26 01:02:47,253 INFO Received manual order payload: id=None product_name='iqoo z11x ' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 25, 19, 32, 47, 196000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:02:48,480 INFO Received manual order payload: id=None product_name='iqoo z11x ' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 25, 19, 32, 48, 441000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:02:49,376 INFO Received manual order payload: id=None product_name='iqoo z11x ' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 25, 19, 32, 49, 330000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:04:14,459 INFO Received manual order payload: id=None product_name='iqoo z11x ' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 25, 19, 34, 14, 427000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:04:35,078 INFO Received manual order payload: id=None product_name='iqoo z11x ' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 25, 19, 34, 35, 29000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:05:49,026 INFO MongoDB indexes ensured
+2026-03-26 01:05:59,903 INFO MongoDB indexes ensured
+2026-03-26 01:06:08,366 INFO Received manual order payload: id=None product_name='iqoo z11x ' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 25, 19, 36, 8, 291000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:06:12,594 INFO Received manual order payload: id=None product_name='iqoo z11x ' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 25, 19, 36, 12, 554000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:09:35,904 INFO Received manual order payload: id=None product_name='iqoo z11x ' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 25, 19, 39, 35, 876000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:09:44,082 INFO MongoDB indexes ensured
+2026-03-26 01:09:44,328 INFO Received manual order payload: id=None product_name='iqoo z11x ' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 25, 19, 39, 37, 204000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:09:44,369 INFO Order 293a0526-f59d-4026-9a64-138d6be455e1 saved to MongoDB.
+2026-03-26 01:19:45,973 INFO MongoDB indexes ensured
+2026-03-26 01:23:44,081 INFO MongoDB indexes ensured
+2026-03-26 01:23:51,985 INFO MongoDB indexes ensured
+2026-03-26 01:24:00,502 INFO MongoDB indexes ensured
+2026-03-26 01:24:14,161 INFO MongoDB indexes ensured
+2026-03-26 01:26:49,591 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='b' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 19, 56, 49, 554000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:26:49,607 INFO \u2705 Scheduled DB insert for order 9a462092-4f72-448f-9b65-9fa18568f7fb
+2026-03-26 01:26:49,612 INFO \U0001f4e1 Broadcasted order 9a462092-4f72-448f-9b65-9fa18568f7fb to WebSocket clients
+2026-03-26 01:26:49,660 INFO \u2705 Order 9a462092-4f72-448f-9b65-9fa18568f7fb successfully saved to MongoDB with _id: 69c43e0175d1a621552babe5
+2026-03-26 01:27:03,577 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='h' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 19, 57, 3, 540000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:27:03,578 INFO \u2705 Scheduled DB insert for order fe500c8d-7fb0-4f9e-aa33-6c75423ffe9c
+2026-03-26 01:27:03,579 INFO \U0001f4e1 Broadcasted order fe500c8d-7fb0-4f9e-aa33-6c75423ffe9c to WebSocket clients
+2026-03-26 01:27:03,609 INFO \u2705 Order fe500c8d-7fb0-4f9e-aa33-6c75423ffe9c successfully saved to MongoDB with _id: 69c43e0f75d1a621552babe6
+2026-03-26 01:30:03,112 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='tea' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 0, 3, 78000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:30:03,114 INFO \u2705 Scheduled DB insert for order e6ace9e3-afca-4be6-8b88-5733ce396632
+2026-03-26 01:30:03,115 INFO \U0001f4e1 Broadcasted order e6ace9e3-afca-4be6-8b88-5733ce396632 to WebSocket clients
+2026-03-26 01:30:03,150 INFO \u2705 Order e6ace9e3-afca-4be6-8b88-5733ce396632 successfully saved to MongoDB with _id: 69c43ec375d1a621552babe7
+2026-03-26 01:30:19,807 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='biscuit' quantity=1 status=<OrderStatus.shipped: 'Shipped'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 0, 19, 767000, tzinfo=TzInfo(UTC)) area='Charminar'
+2026-03-26 01:30:19,808 INFO \u2705 Scheduled DB insert for order 9336cefb-1c13-4551-a337-ec42ec88aecf
+2026-03-26 01:30:19,809 INFO \U0001f4e1 Broadcasted order 9336cefb-1c13-4551-a337-ec42ec88aecf to WebSocket clients
+2026-03-26 01:30:19,840 INFO \u2705 Order 9336cefb-1c13-4551-a337-ec42ec88aecf successfully saved to MongoDB with _id: 69c43ed375d1a621552babe8
+2026-03-26 01:30:52,841 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='onion' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 0, 52, 804000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:30:52,842 INFO \u2705 Scheduled DB insert for order 93496342-17ee-47fd-8f41-cd60e8fee120
+2026-03-26 01:30:52,844 INFO \U0001f4e1 Broadcasted order 93496342-17ee-47fd-8f41-cd60e8fee120 to WebSocket clients
+2026-03-26 01:30:52,876 INFO \u2705 Order 93496342-17ee-47fd-8f41-cd60e8fee120 successfully saved to MongoDB with _id: 69c43ef475d1a621552babe9
+2026-03-26 01:34:03,258 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='apple' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=5 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 4, 3, 216000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:34:03,259 INFO \u2705 Scheduled DB insert for order 75234733-bcb4-4413-a083-8a9c4a497961
+2026-03-26 01:34:03,261 INFO \U0001f4e1 Broadcasted order 75234733-bcb4-4413-a083-8a9c4a497961 to WebSocket clients
+2026-03-26 01:34:03,296 INFO \u2705 Order 75234733-bcb4-4413-a083-8a9c4a497961 successfully saved to MongoDB with _id: 69c43fb375d1a621552babea
+2026-03-26 01:34:12,210 INFO Order 75234733-bcb4-4413-a083-8a9c4a497961 updated to status Shipped by user admin
+2026-03-26 01:34:15,353 INFO Order 75234733-bcb4-4413-a083-8a9c4a497961 updated to status Delivered by user admin
+2026-03-26 01:34:29,554 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='banana' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 4, 29, 525000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:34:29,555 INFO \u2705 Scheduled DB insert for order 9b44f044-1b30-457b-b280-d0f1f165189f
+2026-03-26 01:34:29,555 INFO \U0001f4e1 Broadcasted order 9b44f044-1b30-457b-b280-d0f1f165189f to WebSocket clients
+2026-03-26 01:34:29,581 INFO \u2705 Order 9b44f044-1b30-457b-b280-d0f1f165189f successfully saved to MongoDB with _id: 69c43fcd75d1a621552babeb
+2026-03-26 01:34:48,121 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='oil cans' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=1 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 25, 20, 4, 48, 89000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:34:48,122 INFO \u2705 Scheduled DB insert for order 7e5ba42c-ba4f-46dd-9cd9-151013b6afb0
+2026-03-26 01:34:48,122 INFO \U0001f4e1 Broadcasted order 7e5ba42c-ba4f-46dd-9cd9-151013b6afb0 to WebSocket clients
+2026-03-26 01:34:48,146 INFO \u2705 Order 7e5ba42c-ba4f-46dd-9cd9-151013b6afb0 successfully saved to MongoDB with _id: 69c43fe075d1a621552babec
+2026-03-26 01:35:02,706 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='onion' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 5, 2, 673000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:35:02,707 INFO \u2705 Scheduled DB insert for order 6829bae9-b584-48e9-9348-879812ff353a
+2026-03-26 01:35:02,707 INFO \U0001f4e1 Broadcasted order 6829bae9-b584-48e9-9348-879812ff353a to WebSocket clients
+2026-03-26 01:35:02,733 INFO \u2705 Order 6829bae9-b584-48e9-9348-879812ff353a successfully saved to MongoDB with _id: 69c43fee75d1a621552babed
+2026-03-26 01:35:15,039 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='nbc' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 5, 15, 5000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:35:15,040 INFO \u2705 Scheduled DB insert for order b0d82998-9f7e-49d4-9e3a-c4bd618fd6f9
+2026-03-26 01:35:15,040 INFO \U0001f4e1 Broadcasted order b0d82998-9f7e-49d4-9e3a-c4bd618fd6f9 to WebSocket clients
+2026-03-26 01:35:15,066 INFO \u2705 Order b0d82998-9f7e-49d4-9e3a-c4bd618fd6f9 successfully saved to MongoDB with _id: 69c43ffb75d1a621552babee
+2026-03-26 01:36:07,497 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='grape' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=5 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 6, 7, 462000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:36:07,498 INFO \u2705 Scheduled DB insert for order 45edb61a-066c-4613-9d8c-65901402f3ee
+2026-03-26 01:36:07,499 INFO \U0001f4e1 Broadcasted order 45edb61a-066c-4613-9d8c-65901402f3ee to WebSocket clients
+2026-03-26 01:36:07,530 INFO \u2705 Order 45edb61a-066c-4613-9d8c-65901402f3ee successfully saved to MongoDB with _id: 69c4402f75d1a621552babef
+2026-03-26 01:38:36,418 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='hat' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 8, 36, 389000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:38:36,419 INFO \u2705 Scheduled DB insert for order e00d782b-accd-4eea-adcc-f82bac9a30ae
+2026-03-26 01:38:36,420 INFO \U0001f4e1 Broadcasted order e00d782b-accd-4eea-adcc-f82bac9a30ae to WebSocket clients
+2026-03-26 01:38:36,454 INFO \u2705 Order e00d782b-accd-4eea-adcc-f82bac9a30ae successfully saved to MongoDB with _id: 69c440c475d1a621552babf0
+2026-03-26 01:41:17,692 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 01:41:17,728 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 01:41:17,748 INFO \U0001f680 ORDERS IN DB: 79 orders available
+2026-03-26 01:41:17,748 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 01:41:25,930 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 01:41:25,964 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 01:41:25,986 INFO \U0001f680 ORDERS IN DB: 79 orders available
+2026-03-26 01:41:25,987 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 01:41:34,641 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 01:41:34,676 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 01:41:34,696 INFO \U0001f680 ORDERS IN DB: 79 orders available
+2026-03-26 01:41:34,696 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 01:41:35,044 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='b' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 11, 29, 265000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:41:35,044 INFO \u2705 Scheduled DB insert for order 0af3a140-8b04-405f-8c0c-373c26fb7208
+2026-03-26 01:41:35,045 INFO \U0001f4e1 Broadcasted order 0af3a140-8b04-405f-8c0c-373c26fb7208 to WebSocket clients
+2026-03-26 01:41:35,071 INFO \u2705 Order 0af3a140-8b04-405f-8c0c-373c26fb7208 successfully saved to MongoDB with _id: 69c441775f3bc80e707af6eb
+2026-03-26 01:41:42,121 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='r' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 11, 42, 83000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:41:42,122 INFO \u2705 Scheduled DB insert for order 9776bcf5-68a4-4d85-a0dc-888d1a36110d
+2026-03-26 01:41:42,122 INFO \U0001f4e1 Broadcasted order 9776bcf5-68a4-4d85-a0dc-888d1a36110d to WebSocket clients
+2026-03-26 01:41:42,150 INFO \u2705 Order 9776bcf5-68a4-4d85-a0dc-888d1a36110d successfully saved to MongoDB with _id: 69c4417e5f3bc80e707af6ec
+2026-03-26 01:41:47,901 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='e' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 11, 47, 869000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:41:47,902 INFO \u2705 Scheduled DB insert for order 484641aa-7b8b-4526-98c3-12c6629e5f67
+2026-03-26 01:41:47,902 INFO \U0001f4e1 Broadcasted order 484641aa-7b8b-4526-98c3-12c6629e5f67 to WebSocket clients
+2026-03-26 01:41:47,928 INFO \u2705 Order 484641aa-7b8b-4526-98c3-12c6629e5f67 successfully saved to MongoDB with _id: 69c441835f3bc80e707af6ed
+2026-03-26 01:42:05,883 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='dosa' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 12, 5, 847000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:42:05,884 INFO \u2705 Scheduled DB insert for order 354da0c1-fbdc-46c2-845e-039b115224c2
+2026-03-26 01:42:05,885 INFO \U0001f4e1 Broadcasted order 354da0c1-fbdc-46c2-845e-039b115224c2 to WebSocket clients
+2026-03-26 01:42:05,913 INFO \u2705 Order 354da0c1-fbdc-46c2-845e-039b115224c2 successfully saved to MongoDB with _id: 69c441955f3bc80e707af6ee
+2026-03-26 01:42:13,457 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 01:42:13,491 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 01:42:13,515 INFO \U0001f680 ORDERS IN DB: 83 orders available
+2026-03-26 01:42:13,515 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 01:43:03,371 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 01:43:03,408 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 01:43:03,428 INFO \U0001f680 ORDERS IN DB: 83 orders available
+2026-03-26 01:43:03,429 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 01:44:44,191 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 01:44:44,247 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 01:44:44,269 INFO \U0001f680 ORDERS IN DB: 83 orders available
+2026-03-26 01:44:44,270 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 01:44:44,639 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='onion' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 14, 36, 777000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:44:44,640 INFO \u2705 Scheduled DB insert for order db42a3fa-1f31-49bf-bec5-40b00b3170a0
+2026-03-26 01:44:44,641 INFO \U0001f4e1 Broadcasted order db42a3fa-1f31-49bf-bec5-40b00b3170a0 to WebSocket clients
+2026-03-26 01:44:44,668 INFO \u2705 Order db42a3fa-1f31-49bf-bec5-40b00b3170a0 successfully saved to MongoDB with _id: 69c442340854333ef6a2f459
+2026-03-26 01:44:54,864 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='dosa' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 14, 54, 830000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:44:54,864 INFO \u2705 Scheduled DB insert for order 1eaad1b4-2073-4b4d-8164-557a4a1725df
+2026-03-26 01:44:54,864 INFO \U0001f4e1 Broadcasted order 1eaad1b4-2073-4b4d-8164-557a4a1725df to WebSocket clients
+2026-03-26 01:44:54,892 INFO \u2705 Order 1eaad1b4-2073-4b4d-8164-557a4a1725df successfully saved to MongoDB with _id: 69c4423e0854333ef6a2f45a
+2026-03-26 01:45:08,930 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 01:45:08,984 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 01:45:12,561 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='k' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 15, 12, 533000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:45:12,561 INFO \u2705 Scheduled DB insert for order 09d54ffd-7246-4c63-8bd3-84b02c99431c
+2026-03-26 01:45:12,562 INFO \U0001f4e1 Broadcasted order 09d54ffd-7246-4c63-8bd3-84b02c99431c to WebSocket clients
+2026-03-26 01:45:12,587 INFO \u2705 Order 09d54ffd-7246-4c63-8bd3-84b02c99431c successfully saved to MongoDB with _id: 69c442500854333ef6a2f45b
+2026-03-26 01:45:30,372 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='water' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=1 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 25, 20, 15, 30, 343000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:45:30,372 INFO \u2705 Scheduled DB insert for order 418ada97-8a5a-4f62-bfb5-13d943e01b38
+2026-03-26 01:45:30,373 INFO \U0001f4e1 Broadcasted order 418ada97-8a5a-4f62-bfb5-13d943e01b38 to WebSocket clients
+2026-03-26 01:45:30,400 INFO \u2705 Order 418ada97-8a5a-4f62-bfb5-13d943e01b38 successfully saved to MongoDB with _id: 69c442620854333ef6a2f45c
+2026-03-26 01:55:40,842 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 01:55:40,888 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 01:56:06,811 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 01:56:26,226 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='j' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 26, 26, 182000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 01:56:26,227 INFO \u2705 Scheduled DB insert for order 7c4bd31a-b9bb-4ec7-be7d-2c9e32fb012d
+2026-03-26 01:56:26,229 INFO \U0001f4e1 Broadcasted order 7c4bd31a-b9bb-4ec7-be7d-2c9e32fb012d to WebSocket clients
+2026-03-26 01:56:26,267 INFO \u2705 Order 7c4bd31a-b9bb-4ec7-be7d-2c9e32fb012d successfully saved to MongoDB with _id: 69c444f20854333ef6a2f45d
+2026-03-26 02:01:53,674 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:01:53,721 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:14:40,310 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:14:40,375 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:17:33,064 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='dosa' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 20, 47, 33, 20000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 02:17:33,066 INFO \u2705 Scheduled DB insert for order 022217c7-0314-4da4-94f2-868b5f920af7
+2026-03-26 02:17:33,068 INFO \U0001f4e1 Broadcasted order 022217c7-0314-4da4-94f2-868b5f920af7 to WebSocket clients
+2026-03-26 02:17:33,103 INFO \u2705 Order 022217c7-0314-4da4-94f2-868b5f920af7 successfully saved to MongoDB with _id: 69c449e50854333ef6a2f45e
+2026-03-26 02:17:36,392 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:17:36,459 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:21:19,075 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 02:21:19,123 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 02:21:19,148 INFO \U0001f680 ORDERS IN DB: 89 orders available
+2026-03-26 02:21:19,149 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 02:24:13,832 INFO \u2705 Database healthy. Total orders in DB: 89
+2026-03-26 02:26:15,104 INFO \u2705 Database healthy. Total orders in DB: 89
+2026-03-26 02:31:05,962 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 02:31:06,007 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 02:31:06,041 INFO \U0001f680 ORDERS IN DB: 89 orders available
+2026-03-26 02:31:06,042 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 02:34:23,206 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 02:34:23,244 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 02:34:23,271 INFO \U0001f680 ORDERS IN DB: 89 orders available
+2026-03-26 02:34:23,271 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 02:36:20,101 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 02:36:20,133 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 02:36:20,153 INFO \U0001f680 ORDERS IN DB: 89 orders available
+2026-03-26 02:36:20,153 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 02:36:39,365 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 02:36:39,396 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 02:36:39,416 INFO \U0001f680 ORDERS IN DB: 89 orders available
+2026-03-26 02:36:39,417 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 02:37:02,575 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 02:37:02,605 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 02:37:02,625 INFO \U0001f680 ORDERS IN DB: 89 orders available
+2026-03-26 02:37:02,625 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 02:37:09,049 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 02:37:09,080 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 02:37:09,102 INFO \U0001f680 ORDERS IN DB: 89 orders available
+2026-03-26 02:37:09,102 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 02:37:23,035 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 02:37:23,074 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 02:37:23,096 INFO \U0001f680 ORDERS IN DB: 89 orders available
+2026-03-26 02:37:23,097 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 02:37:40,567 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:37:44,251 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:37:44,297 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:37:49,698 INFO \U0001f4dd Received manual order payload from user admin: id=None product_name='g' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 25, 21, 7, 49, 670000, tzinfo=TzInfo(UTC)) area='Gachibowli'
+2026-03-26 02:37:49,700 INFO \u2705 Scheduled DB insert for order 5aa8b432-9cac-437b-a26b-f0da3e215c99
+2026-03-26 02:37:49,701 INFO \U0001f4e1 Broadcasted order 5aa8b432-9cac-437b-a26b-f0da3e215c99 to WebSocket clients
+2026-03-26 02:37:49,726 INFO \u2705 Order 5aa8b432-9cac-437b-a26b-f0da3e215c99 successfully saved to MongoDB with _id: 69c44ea5b7b901636d13eb88
+2026-03-26 02:37:58,073 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:37:58,125 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:38:11,003 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 02:38:22,883 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 10:07:06,929 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:07:06,966 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:07:06,989 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:07:06,989 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:17:26,122 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:17:26,156 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:17:26,180 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:17:26,180 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:19:32,005 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:19:32,041 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:19:32,062 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:19:32,062 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:20:03,087 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:20:03,124 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:20:03,145 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:20:03,146 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:20:05,231 ERROR \u274c Error fetching orders: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 147, in list_orders
+    orders.append(Order(**order))
+                  ~~~~~^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+payment
+  Field required [type=missing, input_value={'_id': ObjectId('69c42b8...', 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 10:22:25,908 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:22:25,941 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:22:25,959 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:22:25,959 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:22:25,984 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:22:26,018 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:22:26,036 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:22:26,037 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:22:33,840 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:22:33,885 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:22:33,903 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:22:33,904 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:22:33,995 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:22:34,029 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:22:34,050 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:22:34,050 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:22:42,532 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 10:22:42,595 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 10:22:51,742 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:22:51,776 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:22:51,796 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:22:51,797 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:22:59,104 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:22:59,140 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:22:59,160 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:22:59,161 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:24:04,288 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:24:04,324 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:24:04,347 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:24:04,348 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:24:53,719 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 10:24:53,770 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 10:25:00,897 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 10:25:00,950 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 10:34:40,650 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 10:41:50,614 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:41:50,649 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:41:50,668 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:41:50,668 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:43:30,346 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:43:30,383 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:43:30,404 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:43:30,405 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:52:15,367 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 10:52:15,401 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 10:52:15,421 INFO \U0001f680 ORDERS IN DB: 90 orders available
+2026-03-26 10:52:15,421 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 10:56:04,993 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 11:24:52,327 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 11:24:52,383 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 11:24:59,508 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 11:25:09,719 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 11:25:13,616 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 11:35:56,443 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 11:37:11,431 INFO \U0001f4dd Received manual order payload from user admin: id='ORD-678967-1097' product_name='idly' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=4 payment=<PaymentStatus.done: 'Done'> created_at=datetime.datetime(2026, 3, 26, 6, 7, 11, 98000, tzinfo=TzInfo(UTC)) shipped_at=None delivered_at=None area='Kukatpally'
+2026-03-26 11:37:11,432 INFO \u2705 Scheduled DB insert for order 49e0dd0a-1004-448e-8e1b-e1fb1eb66ae4
+2026-03-26 11:37:11,434 INFO \U0001f4e1 Broadcasted order 49e0dd0a-1004-448e-8e1b-e1fb1eb66ae4 to WebSocket clients
+2026-03-26 11:37:11,474 INFO \u2705 Order 49e0dd0a-1004-448e-8e1b-e1fb1eb66ae4 successfully saved to MongoDB with _id: 69c4cd0ff7beed71cd5c939e
+2026-03-26 11:37:36,474 INFO Order 49e0dd0a-1004-448e-8e1b-e1fb1eb66ae4 updated to status Shipped by user admin
+2026-03-26 11:37:45,391 INFO Order 49e0dd0a-1004-448e-8e1b-e1fb1eb66ae4 updated to status Delivered by user admin
+2026-03-26 11:39:08,709 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 11:39:08,751 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 11:39:43,537 INFO \U0001f4dd Received manual order payload from user admin: id='ORD-238485-3191' product_name='clip' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 26, 6, 9, 43, 191000, tzinfo=TzInfo(UTC)) shipped_at=None delivered_at=None area='Gachibowli'
+2026-03-26 11:39:43,538 INFO \u2705 Scheduled DB insert for order 7715f015-439e-42cf-aa2f-f87e7d1a6747
+2026-03-26 11:39:43,539 INFO \U0001f4e1 Broadcasted order 7715f015-439e-42cf-aa2f-f87e7d1a6747 to WebSocket clients
+2026-03-26 11:39:43,570 INFO \u2705 Order 7715f015-439e-42cf-aa2f-f87e7d1a6747 successfully saved to MongoDB with _id: 69c4cda7f7beed71cd5c93a1
+2026-03-26 11:42:55,687 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 11:42:55,722 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 11:42:55,742 INFO \U0001f680 ORDERS IN DB: 92 orders available
+2026-03-26 11:42:55,742 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 11:43:02,064 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 11:43:02,097 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 11:43:02,117 INFO \U0001f680 ORDERS IN DB: 92 orders available
+2026-03-26 11:43:02,117 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 11:44:24,526 INFO \U0001f4dd Received manual order payload from user admin: id='ORD-456789-4160' phone='456789' product_name='table' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 26, 6, 14, 24, 161000, tzinfo=TzInfo(UTC)) shipped_at=None delivered_at=None area='Kukatpally'
+2026-03-26 11:44:24,527 INFO \u2705 Scheduled DB insert for order a8500159-359d-4619-8a96-2aa62957d5ea
+2026-03-26 11:44:24,527 INFO \U0001f4e1 Broadcasted order a8500159-359d-4619-8a96-2aa62957d5ea to WebSocket clients
+2026-03-26 11:44:24,557 INFO \u2705 Order a8500159-359d-4619-8a96-2aa62957d5ea successfully saved to MongoDB with _id: 69c4cec0faa464399468732e
+2026-03-26 11:44:36,654 INFO Order 7715f015-439e-42cf-aa2f-f87e7d1a6747 updated to status Picked by user admin
+2026-03-26 11:44:37,235 ERROR Error updating order 7715f015-439e-42cf-aa2f-f87e7d1a6747: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 11:47:24,570 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 11:47:46,302 INFO \U0001f4dd Received manual order payload from user admin: id='ORD-3457-5952' phone='3457' product_name='dosa' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 26, 6, 17, 45, 952000, tzinfo=TzInfo(UTC)) shipped_at=None delivered_at=None area='Gachibowli'
+2026-03-26 11:47:46,304 INFO \u2705 Scheduled DB insert for order 595d5512-dabb-444f-86ad-24d6391816e0
+2026-03-26 11:47:46,305 INFO \U0001f4e1 Broadcasted order 595d5512-dabb-444f-86ad-24d6391816e0 to WebSocket clients
+2026-03-26 11:47:46,339 INFO \u2705 Order 595d5512-dabb-444f-86ad-24d6391816e0 successfully saved to MongoDB with _id: 69c4cf8afaa4643994687330
+2026-03-26 11:47:58,705 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 11:47:58,748 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 11:48:03,955 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 11:48:08,503 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 11:48:21,328 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 11:48:21,370 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 11:48:39,634 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 11:48:39,670 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 11:48:39,693 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 11:48:39,693 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 11:49:47,558 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 11:59:45,785 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 11:59:56,792 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 11:59:56,827 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 11:59:56,836 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 11:59:56,851 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 11:59:56,852 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 11:59:56,868 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 11:59:56,889 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 11:59:56,889 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:00:09,029 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:00:09,033 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:00:09,071 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:00:09,080 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:00:09,091 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:00:09,091 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:00:09,099 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:00:09,099 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:00:15,225 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:00:15,270 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:00:15,300 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:00:15,300 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:00:15,319 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:00:15,359 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:00:15,377 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:00:15,377 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:00:15,506 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 12:28:55,708 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 12:29:06,791 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 12:29:06,839 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 12:29:30,400 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 12:29:30,446 ERROR \u274c Error fetching orders: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Traceback (most recent call last):
+  File "C:\Users\vishnupriya\OneDrive\Desktop\experiment-project1\main.py", line 155, in list_orders
+    orders.append(Order(**order_dict))
+                  ~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\vishnupriya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Order
+phone
+  Field required [type=missing, input_value={'id': '69c4cda7f7beed71c...e, 'area': 'Gachibowli'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2026-03-26 12:30:58,214 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:30:58,235 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:30:58,247 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:30:58,267 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:30:58,267 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:30:58,276 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:30:58,301 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:30:58,302 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:31:11,228 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:31:11,243 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:31:11,264 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:31:11,279 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:31:11,287 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:31:11,288 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:31:11,303 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:31:11,303 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:31:23,819 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 12:31:23,876 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 12:32:00,289 ERROR \u274c Order not found: 69c4cf8afaa4643994687330
+2026-03-26 12:34:21,012 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:34:21,045 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:34:21,046 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:34:21,069 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:34:21,069 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:34:21,083 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:34:21,103 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:34:21,103 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:34:28,343 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:34:28,359 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:34:28,383 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:34:28,396 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:34:28,406 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:34:28,406 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:34:28,418 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:34:28,418 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:34:28,755 INFO \U0001f50d DEBUG: Searching for order: '69c4cf8afaa4643994687330'
+2026-03-26 12:34:28,755 INFO \U0001f50d DEBUG: Total orders in DB: 94
+2026-03-26 12:34:28,755 INFO \U0001f50d DEBUG: All order IDs: ['737b7b37-3d10-40f8-8c90-75741b10061c', '37e18254-4fa7-44eb-8ba4-0d854561191b', '3fb6a348-d928-445e-b436-19ad09f750af', 'fd1365d8-310b-4c99-970a-f6a88a8d0c56', '83ca5fb6-97dd-40f3-867d-8bf0bd5ff79c', 'cbe11cde-38a8-4bac-b5c0-1769b3b0afb9', 'd8a290e0-4642-4da0-933e-85649eb2cbf3', 'd2cfe9ba-b013-4ad2-9d3e-a7b0273d2325', 'e3a0ae9d-0646-4663-bce5-d7fb1d0d43e9', '957aa6fd-3ac6-43b4-a7d8-7682923a24e2']
+2026-03-26 12:34:28,777 ERROR \u274c Order not found: '69c4cf8afaa4643994687330' (searched in 94 orders)
+2026-03-26 12:34:33,575 INFO \U0001f50d DEBUG: Searching for order: '69c4cf8afaa4643994687330'
+2026-03-26 12:34:33,576 INFO \U0001f50d DEBUG: Total orders in DB: 94
+2026-03-26 12:34:33,576 INFO \U0001f50d DEBUG: All order IDs: ['737b7b37-3d10-40f8-8c90-75741b10061c', '37e18254-4fa7-44eb-8ba4-0d854561191b', '3fb6a348-d928-445e-b436-19ad09f750af', 'fd1365d8-310b-4c99-970a-f6a88a8d0c56', '83ca5fb6-97dd-40f3-867d-8bf0bd5ff79c', 'cbe11cde-38a8-4bac-b5c0-1769b3b0afb9', 'd8a290e0-4642-4da0-933e-85649eb2cbf3', 'd2cfe9ba-b013-4ad2-9d3e-a7b0273d2325', 'e3a0ae9d-0646-4663-bce5-d7fb1d0d43e9', '957aa6fd-3ac6-43b4-a7d8-7682923a24e2']
+2026-03-26 12:34:33,601 ERROR \u274c Order not found: '69c4cf8afaa4643994687330' (searched in 94 orders)
+2026-03-26 12:35:37,112 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:35:37,133 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:35:37,151 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:35:37,172 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:35:37,176 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:35:37,176 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:35:37,197 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:35:37,198 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:35:48,316 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:35:48,352 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:35:48,375 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:35:48,376 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:35:48,395 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:35:48,434 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:35:48,455 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:35:48,456 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:35:55,537 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:35:55,572 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:35:55,577 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:35:55,594 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:35:55,595 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:35:55,616 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:35:55,640 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:35:55,641 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:36:03,613 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:36:03,633 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:36:03,648 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:36:03,670 INFO \U0001f680 ORDERS IN DB: 94 orders available
+orders collection
+2026-03-26 12:36:03,671 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:36:03,693 INFO \U0001f680 ORDERS IN DB: 94 orders available
+2026-03-26 12:36:03,693 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:36:03,996 INFO \U0001f4dd Updating order 69c4cf8afaa4643994687330 with: {'status': 'Picked'}
+2026-03-26 12:36:04,041 INFO \u2705 Order 69c4cf8afaa4643994687330 updated successfully: status=Picked
+2026-03-26 12:36:04,066 INFO Order 69c4cf8afaa4643994687330 updated to status Picked by user admin
+2026-03-26 12:36:04,219 INFO \U0001f4dd Updating order 69c4cf8afaa4643994687330 with: {'status': 'Shipped'}
+2026-03-26 12:36:04,261 INFO \u2705 Order 69c4cf8afaa4643994687330 updated successfully: status=Shipped
+2026-03-26 12:36:04,286 INFO Order 69c4cf8afaa4643994687330 updated to status Shipped by user admin
+2026-03-26 12:36:10,372 INFO \U0001f4dd Updating order 69c4cf8afaa4643994687330 with: {'status': 'Delivered'}
+2026-03-26 12:36:10,421 INFO \u2705 Order 69c4cf8afaa4643994687330 updated successfully: status=Delivered
+2026-03-26 12:36:10,447 INFO Order 69c4cf8afaa4643994687330 updated to status Delivered by user admin
+2026-03-26 12:36:20,389 INFO \U0001f4dd Updating order 69c4cec0faa464399468732e with: {'status': 'Picked'}
+2026-03-26 12:36:20,437 INFO \u2705 Order 69c4cec0faa464399468732e updated successfully: status=Picked
+2026-03-26 12:36:20,461 INFO Order 69c4cec0faa464399468732e updated to status Picked by user admin
+2026-03-26 12:36:22,726 INFO \U0001f4dd Updating order 69c4cec0faa464399468732e with: {'status': 'Shipped'}
+2026-03-26 12:36:22,779 INFO \u2705 Order 69c4cec0faa464399468732e updated successfully: status=Shipped
+2026-03-26 12:36:22,805 INFO Order 69c4cec0faa464399468732e updated to status Shipped by user admin
+2026-03-26 12:36:24,857 INFO \U0001f4dd Updating order 69c4cec0faa464399468732e with: {'status': 'Delivered'}
+2026-03-26 12:36:24,905 INFO \u2705 Order 69c4cec0faa464399468732e updated successfully: status=Delivered
+2026-03-26 12:36:24,931 INFO Order 69c4cec0faa464399468732e updated to status Delivered by user admin
+2026-03-26 12:37:12,850 INFO \U0001f4dd Updating order 69c42b882bcfad40483f01c9 with: {'status': 'Picked'}
+2026-03-26 12:37:12,913 INFO \u2705 Order 69c42b882bcfad40483f01c9 updated successfully: status=Picked
+2026-03-26 12:37:12,937 INFO Order 69c42b882bcfad40483f01c9 updated to status Picked by user admin
+2026-03-26 12:37:15,338 INFO \U0001f4dd Updating order 69c42b882bcfad40483f01c9 with: {'status': 'Shipped'}
+2026-03-26 12:37:15,383 INFO \u2705 Order 69c42b882bcfad40483f01c9 updated successfully: status=Shipped
+2026-03-26 12:37:15,407 INFO Order 69c42b882bcfad40483f01c9 updated to status Shipped by user admin
+2026-03-26 12:37:18,145 INFO \U0001f4dd Updating order 69c42b882bcfad40483f01c9 with: {'status': 'Delivered'}
+2026-03-26 12:37:18,193 INFO \u2705 Order 69c42b882bcfad40483f01c9 updated successfully: status=Delivered
+2026-03-26 12:37:18,219 INFO Order 69c42b882bcfad40483f01c9 updated to status Delivered by user admin
+2026-03-26 12:37:23,669 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 12:37:23,722 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 12:38:02,878 INFO \U0001f4dd Received manual order payload from user admin: id='ORD-949494-2524' phone='9494949494' product_name='cup' quantity=1 status=<OrderStatus.picked: 'Picked'> carrier=<Carrier.dhl: 'DHL'> urgency=1 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 26, 7, 8, 2, 524000, tzinfo=TzInfo(UTC)) shipped_at=None delivered_at=None area='Charminar'
+2026-03-26 12:38:02,879 INFO \u2705 Scheduled DB insert for order d1556a4a-73b5-4bf3-be7d-998c6e4bdc1f
+2026-03-26 12:38:02,880 INFO \U0001f4e1 Broadcasted order d1556a4a-73b5-4bf3-be7d-998c6e4bdc1f to WebSocket clients
+2026-03-26 12:38:02,909 INFO \u2705 Order d1556a4a-73b5-4bf3-be7d-998c6e4bdc1f successfully saved to MongoDB with _id: 69c4db523d8af3f07e33e036
+2026-03-26 12:41:33,645 INFO \U0001f4dd Updating order 69c444f20854333ef6a2f45d with: {'status': 'Picked'}
+2026-03-26 12:41:33,698 INFO \u2705 Order 69c444f20854333ef6a2f45d updated successfully: status=Picked
+2026-03-26 12:41:33,722 INFO Order 69c444f20854333ef6a2f45d updated to status Picked by user admin
+2026-03-26 12:41:39,734 INFO \U0001f4dd Updating order 7c4bd31a-b9bb-4ec7-be7d-2c9e32fb012d with: {'status': 'Shipped'}
+2026-03-26 12:41:39,783 INFO \u2705 Order 7c4bd31a-b9bb-4ec7-be7d-2c9e32fb012d updated successfully: status=Shipped
+2026-03-26 12:41:39,809 INFO Order 7c4bd31a-b9bb-4ec7-be7d-2c9e32fb012d updated to status Shipped by user admin
+2026-03-26 12:41:41,808 INFO \U0001f4dd Updating order 7c4bd31a-b9bb-4ec7-be7d-2c9e32fb012d with: {'status': 'Delivered'}
+2026-03-26 12:41:41,854 INFO \u2705 Order 7c4bd31a-b9bb-4ec7-be7d-2c9e32fb012d updated successfully: status=Delivered
+2026-03-26 12:41:41,879 INFO Order 7c4bd31a-b9bb-4ec7-be7d-2c9e32fb012d updated to status Delivered by user admin
+2026-03-26 12:41:50,725 INFO \U0001f4dd Updating order 69c449e50854333ef6a2f45e with: {'status': 'Picked'}
+2026-03-26 12:41:50,773 INFO \u2705 Order 69c449e50854333ef6a2f45e updated successfully: status=Picked
+2026-03-26 12:41:50,798 INFO Order 69c449e50854333ef6a2f45e updated to status Picked by user admin
+2026-03-26 12:41:53,063 INFO \U0001f4dd Updating order 022217c7-0314-4da4-94f2-868b5f920af7 with: {'status': 'Shipped'}
+2026-03-26 12:41:53,109 INFO \u2705 Order 022217c7-0314-4da4-94f2-868b5f920af7 updated successfully: status=Shipped
+2026-03-26 12:41:53,133 INFO Order 022217c7-0314-4da4-94f2-868b5f920af7 updated to status Shipped by user admin
+2026-03-26 12:41:55,414 INFO \U0001f4dd Updating order 69c449e50854333ef6a2f45e with: {'status': 'Shipped'}
+2026-03-26 12:41:55,459 INFO \u2705 Order 69c449e50854333ef6a2f45e updated successfully: status=Shipped
+2026-03-26 12:41:55,483 INFO Order 69c449e50854333ef6a2f45e updated to status Shipped by user admin
+2026-03-26 12:42:00,256 INFO \U0001f4dd Updating order 69c449e50854333ef6a2f45e with: {'status': 'Delivered'}
+2026-03-26 12:42:00,301 INFO \u2705 Order 69c449e50854333ef6a2f45e updated successfully: status=Delivered
+2026-03-26 12:42:00,326 INFO Order 69c449e50854333ef6a2f45e updated to status Delivered by user admin
+2026-03-26 12:50:42,079 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:50:42,079 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:50:42,128 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:50:42,133 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:50:42,151 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:50:42,151 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:50:42,152 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:50:42,152 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:51:09,896 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:51:09,931 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:51:09,952 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:51:09,953 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:51:10,091 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:51:10,144 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:51:10,165 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:51:10,165 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:52:53,015 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:52:53,038 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:52:53,049 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:52:53,067 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:52:53,067 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:52:53,072 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:52:53,090 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:52:53,091 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:53:12,127 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:53:12,163 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:53:12,170 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:53:12,186 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:53:12,186 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:53:12,204 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:53:12,225 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:53:12,226 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:53:19,038 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:53:19,061 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:53:19,070 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:53:19,089 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:53:19,089 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:53:19,093 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:53:19,112 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:53:19,112 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:53:24,849 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 12:53:32,969 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:53:33,002 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:53:33,024 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:53:33,024 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:53:33,329 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 12:53:33,365 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 12:53:33,387 INFO \U0001f680 ORDERS IN DB: 95 orders available
+2026-03-26 12:53:33,387 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 12:53:44,809 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 12:53:49,800 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 12:54:06,803 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 12:54:50,798 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:06:50,436 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:07:35,900 INFO \U0001f4dd Received manual order payload from user admin: id='ORD-1-5850' phone='1' product_name='dosa' quantity=1 status=<OrderStatus.pending: 'Pending'> carrier=<Carrier.dhl: 'DHL'> urgency=3 payment=<PaymentStatus.remaining: 'Remaining'> created_at=datetime.datetime(2026, 3, 26, 7, 37, 35, 850000, tzinfo=TzInfo(UTC)) shipped_at=None delivered_at=None area='Gachibowli'
+2026-03-26 13:07:35,901 INFO \u2705 Scheduled DB insert for order 4fbc332e-da4a-470f-9a09-cef313650bd1
+2026-03-26 13:07:35,902 INFO \U0001f4e1 Broadcasted order 4fbc332e-da4a-470f-9a09-cef313650bd1 to WebSocket clients
+2026-03-26 13:07:35,939 INFO \u2705 Order 4fbc332e-da4a-470f-9a09-cef313650bd1 successfully saved to MongoDB with _id: 69c4e23f58a3ede783ff5525
+2026-03-26 13:07:47,923 INFO \U0001f4dd Updating order 4fbc332e-da4a-470f-9a09-cef313650bd1 with: {'status': 'Picked'}
+2026-03-26 13:07:47,969 INFO \u2705 Order 4fbc332e-da4a-470f-9a09-cef313650bd1 updated successfully: status=Picked
+2026-03-26 13:07:47,994 INFO Order 4fbc332e-da4a-470f-9a09-cef313650bd1 updated to status Picked by user admin
+2026-03-26 13:07:50,117 INFO \U0001f4dd Updating order 4fbc332e-da4a-470f-9a09-cef313650bd1 with: {'status': 'Shipped'}
+2026-03-26 13:07:50,163 INFO \u2705 Order 4fbc332e-da4a-470f-9a09-cef313650bd1 updated successfully: status=Shipped
+2026-03-26 13:07:50,187 INFO Order 4fbc332e-da4a-470f-9a09-cef313650bd1 updated to status Shipped by user admin
+2026-03-26 13:07:52,162 INFO \U0001f4dd Updating order 4fbc332e-da4a-470f-9a09-cef313650bd1 with: {'status': 'Delivered'}
+2026-03-26 13:07:52,163 INFO \U0001f4b0 Order 4fbc332e-da4a-470f-9a09-cef313650bd1 marked as DELIVERED - auto-marking payment as DONE (COD)
+2026-03-26 13:07:52,210 INFO \u2705 Order 4fbc332e-da4a-470f-9a09-cef313650bd1 updated successfully: status=Delivered
+2026-03-26 13:07:52,235 INFO Order 4fbc332e-da4a-470f-9a09-cef313650bd1 updated to status Delivered by user admin
+2026-03-26 13:13:44,166 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:13:44,222 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:25:01,817 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:25:01,869 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:35:03,349 INFO \u2705 Feedback submitted by admin for product dosa
+2026-03-26 13:37:19,421 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:38:27,486 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:38:27,562 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:38:39,194 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:38:39,250 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:40:27,594 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:40:27,669 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:45:46,782 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:45:46,915 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 13:45:46,958 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 13:56:46,673 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:56:46,730 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:59:32,774 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 13:59:32,831 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 13:59:51,220 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 13:59:51,272 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 14:00:23,271 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 14:00:23,324 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 14:13:35,978 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:13:35,996 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:13:36,011 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:13:36,031 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:13:36,032 INFO \U0001f680 ORDERS IN DB: 96 orders available
+2026-03-26 14:13:36,032 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:13:36,065 INFO \U0001f680 ORDERS IN DB: 96 orders available
+2026-03-26 14:13:36,066 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:13:42,564 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:13:42,584 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:13:42,599 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:13:42,619 INFO \U0001f680 ORDERS IN DB: 96 orders available
+orders collection
+2026-03-26 14:13:42,620 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:13:42,640 INFO \U0001f680 ORDERS IN DB: 96 orders available
+2026-03-26 14:13:42,640 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:14:33,667 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:14:33,709 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:14:33,728 INFO \U0001f680 ORDERS IN DB: 96 orders available
+2026-03-26 14:14:33,729 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:14:33,879 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:14:33,914 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:14:33,935 INFO \U0001f680 ORDERS IN DB: 96 orders available
+2026-03-26 14:14:33,936 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:32:01,746 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:32:01,748 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:32:01,750 INFO \U0001f680 ORDERS IN DB: <Future pending cb=[_chain_future.<locals>._call_check_cancel() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\futures.py:384]> orders available
+2026-03-26 14:32:01,750 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:32:01,750 INFO \U0001f3af Starting Flask API Server on port 8000...
+2026-03-26 14:32:01,931 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2026-03-26 14:32:01,931 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 14:32:01,931 INFO  * Restarting with stat
+2026-03-26 14:32:03,292 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:32:03,294 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:32:03,295 INFO \U0001f680 ORDERS IN DB: <Future pending cb=[_chain_future.<locals>._call_check_cancel() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\futures.py:384]> orders available
+2026-03-26 14:32:03,295 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:32:03,295 INFO \U0001f3af Starting Flask API Server on port 8000...
+2026-03-26 14:32:03,312 WARNING  * Debugger is active!
+2026-03-26 14:32:03,325 INFO  * Debugger PIN: 121-947-627
+2026-03-26 14:38:30,880 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:38:30,881 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:38:30,883 INFO \U0001f680 ORDERS IN DB: <Future pending cb=[_chain_future.<locals>._call_check_cancel() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\futures.py:384]> orders available
+2026-03-26 14:38:30,883 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:38:30,883 INFO \U0001f3af Starting Flask API Server on port 8000...
+2026-03-26 14:38:30,919 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2026-03-26 14:38:30,919 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 14:38:30,920 INFO  * Restarting with stat
+2026-03-26 14:38:32,285 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:38:32,287 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:38:32,290 INFO \U0001f680 ORDERS IN DB: <Future pending cb=[_chain_future.<locals>._call_check_cancel() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\futures.py:384]> orders available
+2026-03-26 14:38:32,291 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:38:32,291 INFO \U0001f3af Starting Flask API Server on port 8000...
+2026-03-26 14:38:32,311 WARNING  * Debugger is active!
+2026-03-26 14:38:32,320 INFO  * Debugger PIN: 121-947-627
+2026-03-26 14:39:12,037 INFO  * Detected change in 'C:\\Users\\vishnupriya\\OneDrive\\Desktop\\experiment-project1\\test_flask_endpoints.py', reloading
+2026-03-26 14:39:12,661 INFO  * Restarting with stat
+2026-03-26 14:39:14,348 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:39:14,349 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:39:14,351 INFO \U0001f680 ORDERS IN DB: <Future pending cb=[_chain_future.<locals>._call_check_cancel() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\futures.py:384]> orders available
+2026-03-26 14:39:14,351 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:39:14,352 INFO \U0001f3af Starting Flask API Server on port 8000...
+2026-03-26 14:39:14,371 WARNING  * Debugger is active!
+2026-03-26 14:39:14,381 INFO  * Debugger PIN: 121-947-627
+2026-03-26 14:39:54,133 INFO  * Detected change in 'C:\\Users\\vishnupriya\\OneDrive\\Desktop\\experiment-project1\\main.py', reloading
+2026-03-26 14:39:54,699 INFO  * Restarting with stat
+2026-03-26 14:39:56,137 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:39:56,139 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:39:56,140 INFO \U0001f680 ORDERS IN DB: <Future pending cb=[_chain_future.<locals>._call_check_cancel() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\futures.py:384]> orders available
+2026-03-26 14:39:56,140 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:39:56,140 INFO \U0001f3af Starting Flask API Server on port 8000...
+2026-03-26 14:39:56,155 WARNING  * Debugger is active!
+2026-03-26 14:39:56,167 INFO  * Debugger PIN: 121-947-627
+2026-03-26 14:41:16,978 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:41:16,979 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:41:16,980 INFO \U0001f680 ORDERS IN DB: <Future pending cb=[_chain_future.<locals>._call_check_cancel() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\Lib\asyncio\futures.py:384]> orders available
+2026-03-26 14:41:16,980 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:41:16,981 INFO \U0001f3af Starting Flask API Server on port 8000...
+2026-03-26 14:41:17,003 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2026-03-26 14:41:17,003 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 14:44:28,421 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:44:28,456 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:44:28,476 INFO \U0001f680 ORDERS IN DB: 96 orders available
+2026-03-26 14:44:28,477 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:44:28,477 INFO \U0001f3af Starting Flask API Server on port 8000...
+2026-03-26 14:44:28,492 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2026-03-26 14:44:28,493 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 14:51:31,122 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:51:31,156 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:51:31,177 INFO \U0001f680 ORDERS IN DB: 96 orders available
+2026-03-26 14:51:31,177 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:51:31,177 INFO \U0001f3af Starting Flask API Server on port 8000...
+2026-03-26 14:51:31,191 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2026-03-26 14:51:31,191 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 14:53:29,143 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 14:53:29,177 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 14:53:29,197 INFO \U0001f680 ORDERS IN DB: 96 orders available
+2026-03-26 14:53:29,197 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 14:53:29,197 INFO \U0001f3af Starting Flask API Server on port 8001...
+2026-03-26 14:53:29,206 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+2026-03-26 14:53:29,206 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 14:53:42,293 INFO \u2705 Database healthy. Total orders: 96
+2026-03-26 14:53:42,295 INFO 127.0.0.1 - - [26/Mar/2026 14:53:42] "GET /health HTTP/1.1" 200 -
+2026-03-26 14:54:49,465 INFO \u2705 Database healthy. Total orders: 96
+2026-03-26 14:54:49,466 INFO 127.0.0.1 - - [26/Mar/2026 14:54:49] "GET /health HTTP/1.1" 200 -
+2026-03-26 14:54:49,472 INFO 127.0.0.1 - - [26/Mar/2026 14:54:49] "GET / HTTP/1.1" 200 -
+2026-03-26 14:54:49,497 INFO \U0001f50d Login attempt for user: test
+2026-03-26 14:54:49,517 WARNING \u274c User not found: test
+2026-03-26 14:54:49,518 INFO 127.0.0.1 - - [26/Mar/2026 14:54:49] "[31m[1mPOST /token HTTP/1.1[0m" 401 -
+2026-03-26 14:54:49,525 INFO 127.0.0.1 - - [26/Mar/2026 14:54:49] "[31m[1mGET /orders HTTP/1.1[0m" 401 -
+2026-03-26 14:54:49,544 INFO 127.0.0.1 - - [26/Mar/2026 14:54:49] "[31m[1mGET /orders HTTP/1.1[0m" 401 -
+2026-03-26 14:54:49,551 INFO 127.0.0.1 - - [26/Mar/2026 14:54:49] "[31m[1mGET /activity HTTP/1.1[0m" 401 -
+2026-03-26 14:54:49,556 INFO 127.0.0.1 - - [26/Mar/2026 14:54:49] "[31m[1mPOST /feedback HTTP/1.1[0m" 401 -
+2026-03-26 14:54:49,565 INFO 127.0.0.1 - - [26/Mar/2026 14:54:49] "[31m[1mGET /feedback HTTP/1.1[0m" 401 -
+2026-03-26 17:07:46,559 ERROR \u274c Error in login: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2026-03-26 17:07:46,634 INFO 127.0.0.1 - - [26/Mar/2026 17:07:46] "[35m[1mPOST /token HTTP/1.1[0m" 500 -
+2026-03-26 17:07:51,491 ERROR \u274c Error in login: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2026-03-26 17:07:51,492 INFO 127.0.0.1 - - [26/Mar/2026 17:07:51] "[35m[1mPOST /token HTTP/1.1[0m" 500 -
+2026-03-26 17:08:01,062 ERROR \u274c Error in login: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2026-03-26 17:08:01,063 INFO 127.0.0.1 - - [26/Mar/2026 17:08:01] "[35m[1mPOST /token HTTP/1.1[0m" 500 -
+2026-03-26 17:09:12,719 INFO 127.0.0.1 - - [26/Mar/2026 17:09:12] "OPTIONS /token HTTP/1.1" 200 -
+2026-03-26 17:09:12,963 INFO \U0001f50d Login attempt for user: admin
+2026-03-26 17:09:13,827 INFO \u2705 Login successful for user: admin
+2026-03-26 17:09:13,829 INFO 127.0.0.1 - - [26/Mar/2026 17:09:13] "POST /token HTTP/1.1" 200 -
+2026-03-26 17:09:14,159 INFO 127.0.0.1 - - [26/Mar/2026 17:09:14] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:09:14,218 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:09:14,220 INFO 127.0.0.1 - - [26/Mar/2026 17:09:14] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:09:14,416 INFO 127.0.0.1 - - [26/Mar/2026 17:09:14] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:09:14,476 INFO \u2705 Fetched 22 activity logs
+2026-03-26 17:09:14,497 INFO 127.0.0.1 - - [26/Mar/2026 17:09:14] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:09:48,555 INFO 127.0.0.1 - - [26/Mar/2026 17:09:48] "OPTIONS /feedback HTTP/1.1" 200 -
+2026-03-26 17:09:48,565 INFO 127.0.0.1 - - [26/Mar/2026 17:09:48] "OPTIONS /feedback HTTP/1.1" 200 -
+2026-03-26 17:09:48,621 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 17:09:48,623 INFO 127.0.0.1 - - [26/Mar/2026 17:09:48] "GET /feedback HTTP/1.1" 200 -
+2026-03-26 17:09:48,664 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 17:09:48,665 INFO 127.0.0.1 - - [26/Mar/2026 17:09:48] "GET /feedback HTTP/1.1" 200 -
+2026-03-26 17:14:40,696 INFO 127.0.0.1 - - [26/Mar/2026 17:14:40] "OPTIONS /feedback HTTP/1.1" 200 -
+2026-03-26 17:14:40,701 INFO 127.0.0.1 - - [26/Mar/2026 17:14:40] "OPTIONS /feedback HTTP/1.1" 200 -
+2026-03-26 17:14:40,755 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 17:14:40,757 INFO 127.0.0.1 - - [26/Mar/2026 17:14:40] "GET /feedback HTTP/1.1" 200 -
+2026-03-26 17:14:40,802 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 17:14:40,804 INFO 127.0.0.1 - - [26/Mar/2026 17:14:40] "GET /feedback HTTP/1.1" 200 -
+2026-03-26 17:16:59,807 INFO 127.0.0.1 - - [26/Mar/2026 17:16:59] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:16:59,859 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:16:59,862 INFO 127.0.0.1 - - [26/Mar/2026 17:16:59] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:16:59,878 INFO 127.0.0.1 - - [26/Mar/2026 17:16:59] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:16:59,925 INFO \u2705 Fetched 22 activity logs
+2026-03-26 17:16:59,926 INFO 127.0.0.1 - - [26/Mar/2026 17:16:59] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:18:28,194 INFO 127.0.0.1 - - [26/Mar/2026 17:18:28] "OPTIONS /orders/69c4db523d8af3f07e33e036 HTTP/1.1" 200 -
+2026-03-26 17:18:28,461 INFO \U0001f4dd Updating order 69c4db523d8af3f07e33e036 with: {'status': 'Shipped'}
+2026-03-26 17:18:28,579 INFO \u2705 Order 69c4db523d8af3f07e33e036 updated to status Shipped
+2026-03-26 17:18:28,607 INFO 127.0.0.1 - - [26/Mar/2026 17:18:28] "PATCH /orders/69c4db523d8af3f07e33e036 HTTP/1.1" 200 -
+2026-03-26 17:18:30,635 INFO \U0001f4dd Updating order 69c4db523d8af3f07e33e036 with: {'status': 'Delivered'}
+2026-03-26 17:18:30,675 INFO \U0001f4b0 Order 69c4db523d8af3f07e33e036 marked as DELIVERED - auto-marking payment as DONE
+2026-03-26 17:18:30,719 INFO \u2705 Order 69c4db523d8af3f07e33e036 updated to status Delivered
+2026-03-26 17:18:30,745 INFO 127.0.0.1 - - [26/Mar/2026 17:18:30] "PATCH /orders/69c4db523d8af3f07e33e036 HTTP/1.1" 200 -
+2026-03-26 17:18:39,628 INFO 127.0.0.1 - - [26/Mar/2026 17:18:39] "OPTIONS /feedback HTTP/1.1" 200 -
+2026-03-26 17:18:39,635 INFO 127.0.0.1 - - [26/Mar/2026 17:18:39] "OPTIONS /feedback HTTP/1.1" 200 -
+2026-03-26 17:18:39,691 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 17:18:39,693 INFO 127.0.0.1 - - [26/Mar/2026 17:18:39] "GET /feedback HTTP/1.1" 200 -
+2026-03-26 17:18:39,744 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 17:18:39,746 INFO 127.0.0.1 - - [26/Mar/2026 17:18:39] "GET /feedback HTTP/1.1" 200 -
+2026-03-26 17:25:18,537 INFO 127.0.0.1 - - [26/Mar/2026 17:25:18] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:25:18,540 INFO 127.0.0.1 - - [26/Mar/2026 17:25:18] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:25:18,587 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:25:18,597 INFO 127.0.0.1 - - [26/Mar/2026 17:25:18] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:25:18,643 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:25:18,644 INFO 127.0.0.1 - - [26/Mar/2026 17:25:18] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:25:18,743 INFO 127.0.0.1 - - [26/Mar/2026 17:25:18] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:25:18,747 INFO 127.0.0.1 - - [26/Mar/2026 17:25:18] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:25:18,792 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:25:18,795 INFO 127.0.0.1 - - [26/Mar/2026 17:25:18] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:25:18,841 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:25:18,843 INFO 127.0.0.1 - - [26/Mar/2026 17:25:18] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:27:24,241 INFO 127.0.0.1 - - [26/Mar/2026 17:27:24] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:27:24,244 INFO 127.0.0.1 - - [26/Mar/2026 17:27:24] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:27:24,290 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:27:24,292 INFO 127.0.0.1 - - [26/Mar/2026 17:27:24] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:27:24,333 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:27:24,335 INFO 127.0.0.1 - - [26/Mar/2026 17:27:24] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:27:24,430 INFO 127.0.0.1 - - [26/Mar/2026 17:27:24] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:27:24,432 INFO 127.0.0.1 - - [26/Mar/2026 17:27:24] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:27:24,478 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:27:24,480 INFO 127.0.0.1 - - [26/Mar/2026 17:27:24] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:27:24,534 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:27:24,536 INFO 127.0.0.1 - - [26/Mar/2026 17:27:24] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:28:07,523 INFO 127.0.0.1 - - [26/Mar/2026 17:28:07] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:28:07,526 INFO 127.0.0.1 - - [26/Mar/2026 17:28:07] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:28:08,056 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:28:08,058 INFO 127.0.0.1 - - [26/Mar/2026 17:28:08] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:28:08,077 INFO 127.0.0.1 - - [26/Mar/2026 17:28:08] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:28:08,137 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:28:08,139 INFO 127.0.0.1 - - [26/Mar/2026 17:28:08] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:28:08,276 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:28:08,277 INFO 127.0.0.1 - - [26/Mar/2026 17:28:08] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:28:08,328 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:28:08,330 INFO 127.0.0.1 - - [26/Mar/2026 17:28:08] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:29:47,826 INFO 127.0.0.1 - - [26/Mar/2026 17:29:47] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:29:47,828 INFO 127.0.0.1 - - [26/Mar/2026 17:29:47] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:29:47,879 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:29:47,881 INFO 127.0.0.1 - - [26/Mar/2026 17:29:47] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:29:47,933 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:29:47,935 INFO 127.0.0.1 - - [26/Mar/2026 17:29:47] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:29:48,049 INFO 127.0.0.1 - - [26/Mar/2026 17:29:48] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:29:48,056 INFO 127.0.0.1 - - [26/Mar/2026 17:29:48] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:29:48,114 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:29:48,116 INFO 127.0.0.1 - - [26/Mar/2026 17:29:48] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:29:48,172 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:29:48,175 INFO 127.0.0.1 - - [26/Mar/2026 17:29:48] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:31:43,361 INFO 127.0.0.1 - - [26/Mar/2026 17:31:43] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:31:43,364 INFO 127.0.0.1 - - [26/Mar/2026 17:31:43] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:31:43,420 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:31:43,422 INFO 127.0.0.1 - - [26/Mar/2026 17:31:43] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:31:43,475 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:31:43,484 INFO 127.0.0.1 - - [26/Mar/2026 17:31:43] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:31:43,566 INFO 127.0.0.1 - - [26/Mar/2026 17:31:43] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:31:43,575 INFO 127.0.0.1 - - [26/Mar/2026 17:31:43] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:31:43,656 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:31:43,658 INFO 127.0.0.1 - - [26/Mar/2026 17:31:43] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:31:43,707 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:31:43,709 INFO 127.0.0.1 - - [26/Mar/2026 17:31:43] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:32:18,607 INFO 127.0.0.1 - - [26/Mar/2026 17:32:18] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:32:18,609 INFO 127.0.0.1 - - [26/Mar/2026 17:32:18] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:32:18,666 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:32:18,667 INFO 127.0.0.1 - - [26/Mar/2026 17:32:18] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:32:18,710 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:32:18,712 INFO 127.0.0.1 - - [26/Mar/2026 17:32:18] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:32:18,804 INFO 127.0.0.1 - - [26/Mar/2026 17:32:18] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:32:18,809 INFO 127.0.0.1 - - [26/Mar/2026 17:32:18] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:32:18,881 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:32:18,883 INFO 127.0.0.1 - - [26/Mar/2026 17:32:18] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:32:18,928 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:32:18,931 INFO 127.0.0.1 - - [26/Mar/2026 17:32:18] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:33:03,408 INFO 127.0.0.1 - - [26/Mar/2026 17:33:03] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:33:03,411 INFO 127.0.0.1 - - [26/Mar/2026 17:33:03] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:33:03,457 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:33:03,459 INFO 127.0.0.1 - - [26/Mar/2026 17:33:03] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:33:03,586 INFO 127.0.0.1 - - [26/Mar/2026 17:33:03] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:33:03,827 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:33:03,830 INFO 127.0.0.1 - - [26/Mar/2026 17:33:03] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:33:03,832 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:33:03,834 INFO 127.0.0.1 - - [26/Mar/2026 17:33:03] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:33:03,939 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:33:03,941 INFO 127.0.0.1 - - [26/Mar/2026 17:33:03] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:34:18,918 INFO 127.0.0.1 - - [26/Mar/2026 17:34:18] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:34:18,921 INFO 127.0.0.1 - - [26/Mar/2026 17:34:18] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:34:19,406 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:34:19,408 INFO 127.0.0.1 - - [26/Mar/2026 17:34:19] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:34:19,425 INFO 127.0.0.1 - - [26/Mar/2026 17:34:19] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:34:19,489 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:34:19,490 INFO 127.0.0.1 - - [26/Mar/2026 17:34:19] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:34:19,505 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:34:19,506 INFO 127.0.0.1 - - [26/Mar/2026 17:34:19] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:34:19,551 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:34:19,552 INFO 127.0.0.1 - - [26/Mar/2026 17:34:19] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:39:33,470 INFO 127.0.0.1 - - [26/Mar/2026 17:39:33] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:39:33,481 INFO 127.0.0.1 - - [26/Mar/2026 17:39:33] "[31m[1mGET /orders HTTP/1.1[0m" 401 -
+2026-03-26 17:39:33,525 INFO 127.0.0.1 - - [26/Mar/2026 17:39:33] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:39:33,540 INFO 127.0.0.1 - - [26/Mar/2026 17:39:33] "[31m[1mGET /activity HTTP/1.1[0m" 401 -
+2026-03-26 17:39:35,633 INFO 127.0.0.1 - - [26/Mar/2026 17:39:35] "OPTIONS /token HTTP/1.1" 200 -
+2026-03-26 17:39:35,899 INFO \U0001f50d Login attempt for user: admin
+2026-03-26 17:39:36,513 INFO \u2705 Login successful for user: admin
+2026-03-26 17:39:36,515 INFO 127.0.0.1 - - [26/Mar/2026 17:39:36] "POST /token HTTP/1.1" 200 -
+2026-03-26 17:39:36,647 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:39:36,649 INFO 127.0.0.1 - - [26/Mar/2026 17:39:36] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:39:36,845 INFO \u2705 Fetched 24 activity logs
+2026-03-26 17:39:36,847 INFO 127.0.0.1 - - [26/Mar/2026 17:39:36] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:40:36,250 INFO 127.0.0.1 - - [26/Mar/2026 17:40:36] "OPTIONS /orders/69c42b872bcfad40483f01c2 HTTP/1.1" 200 -
+2026-03-26 17:40:36,543 INFO \U0001f4dd Updating order 69c42b872bcfad40483f01c2 with: {'status': 'Picked'}
+2026-03-26 17:40:36,640 INFO \u2705 Order 69c42b872bcfad40483f01c2 updated to status Picked
+2026-03-26 17:40:36,674 INFO 127.0.0.1 - - [26/Mar/2026 17:40:36] "PATCH /orders/69c42b872bcfad40483f01c2 HTTP/1.1" 200 -
+2026-03-26 17:40:38,853 INFO \U0001f4dd Updating order 69c42b872bcfad40483f01c2 with: {'status': 'Shipped'}
+2026-03-26 17:40:38,937 INFO \u2705 Order 69c42b872bcfad40483f01c2 updated to status Shipped
+2026-03-26 17:40:38,966 INFO 127.0.0.1 - - [26/Mar/2026 17:40:38] "PATCH /orders/69c42b872bcfad40483f01c2 HTTP/1.1" 200 -
+2026-03-26 17:40:42,097 INFO 127.0.0.1 - - [26/Mar/2026 17:40:42] "OPTIONS /orders/69c42b872bcfad40483f01c2 HTTP/1.1" 200 -
+2026-03-26 17:40:42,383 INFO \U0001f4dd Updating order 69c42b872bcfad40483f01c2 with: {'status': 'Delivered'}
+2026-03-26 17:40:42,420 INFO \U0001f4b0 Order 69c42b872bcfad40483f01c2 marked as DELIVERED - auto-marking payment as DONE
+2026-03-26 17:40:42,465 INFO \u2705 Order 69c42b872bcfad40483f01c2 updated to status Delivered
+2026-03-26 17:40:42,497 INFO 127.0.0.1 - - [26/Mar/2026 17:40:42] "PATCH /orders/69c42b872bcfad40483f01c2 HTTP/1.1" 200 -
+2026-03-26 17:43:41,787 INFO 127.0.0.1 - - [26/Mar/2026 17:43:41] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:43:41,856 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:43:41,858 INFO 127.0.0.1 - - [26/Mar/2026 17:43:41] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:43:41,875 INFO 127.0.0.1 - - [26/Mar/2026 17:43:41] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:43:41,932 INFO \u2705 Fetched 27 activity logs
+2026-03-26 17:43:41,937 INFO 127.0.0.1 - - [26/Mar/2026 17:43:41] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:44:30,705 INFO 127.0.0.1 - - [26/Mar/2026 17:44:30] "OPTIONS /feedback HTTP/1.1" 200 -
+2026-03-26 17:44:30,706 INFO 127.0.0.1 - - [26/Mar/2026 17:44:30] "OPTIONS /feedback HTTP/1.1" 200 -
+2026-03-26 17:44:30,770 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 17:44:30,771 INFO 127.0.0.1 - - [26/Mar/2026 17:44:30] "GET /feedback HTTP/1.1" 200 -
+2026-03-26 17:44:30,822 INFO \u2705 Fetched 1 feedback entries
+2026-03-26 17:44:30,823 INFO 127.0.0.1 - - [26/Mar/2026 17:44:30] "GET /feedback HTTP/1.1" 200 -
+2026-03-26 17:47:05,626 INFO 127.0.0.1 - - [26/Mar/2026 17:47:05] "OPTIONS /orders/69c4cda7f7beed71cd5c93a1 HTTP/1.1" 200 -
+2026-03-26 17:47:05,922 INFO \U0001f4dd Updating order 69c4cda7f7beed71cd5c93a1 with: {'status': 'Shipped'}
+2026-03-26 17:47:06,010 INFO \u2705 Order 69c4cda7f7beed71cd5c93a1 updated to status Shipped
+2026-03-26 17:47:06,035 INFO 127.0.0.1 - - [26/Mar/2026 17:47:06] "PATCH /orders/69c4cda7f7beed71cd5c93a1 HTTP/1.1" 200 -
+2026-03-26 17:47:08,115 INFO \U0001f4dd Updating order 69c4cda7f7beed71cd5c93a1 with: {'status': 'Delivered'}
+2026-03-26 17:47:08,156 INFO \U0001f4b0 Order 69c4cda7f7beed71cd5c93a1 marked as DELIVERED - auto-marking payment as DONE
+2026-03-26 17:47:08,197 INFO \u2705 Order 69c4cda7f7beed71cd5c93a1 updated to status Delivered
+2026-03-26 17:47:08,220 INFO 127.0.0.1 - - [26/Mar/2026 17:47:08] "PATCH /orders/69c4cda7f7beed71cd5c93a1 HTTP/1.1" 200 -
+2026-03-26 17:47:23,130 INFO 127.0.0.1 - - [26/Mar/2026 17:47:23] "OPTIONS /orders/69c43ef475d1a621552babe9 HTTP/1.1" 200 -
+2026-03-26 17:47:23,405 INFO \U0001f4dd Updating order 69c43ef475d1a621552babe9 with: {'status': 'Shipped'}
+2026-03-26 17:47:23,488 INFO \u2705 Order 69c43ef475d1a621552babe9 updated to status Shipped
+2026-03-26 17:47:23,513 INFO 127.0.0.1 - - [26/Mar/2026 17:47:23] "PATCH /orders/69c43ef475d1a621552babe9 HTTP/1.1" 200 -
+2026-03-26 17:47:25,248 INFO \U0001f4dd Updating order 69c43ef475d1a621552babe9 with: {'status': 'Delivered'}
+2026-03-26 17:47:25,286 INFO \U0001f4b0 Order 69c43ef475d1a621552babe9 marked as DELIVERED - auto-marking payment as DONE
+2026-03-26 17:47:25,327 INFO \u2705 Order 69c43ef475d1a621552babe9 updated to status Delivered
+2026-03-26 17:47:25,348 INFO 127.0.0.1 - - [26/Mar/2026 17:47:25] "PATCH /orders/69c43ef475d1a621552babe9 HTTP/1.1" 200 -
+2026-03-26 17:48:14,027 INFO 127.0.0.1 - - [26/Mar/2026 17:48:14] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:48:14,312 INFO \U0001f4dd Received manual order payload: {'id': 'ORD-456789-3691', 'phone': '123456789', 'product_name': 'saree', 'quantity': 1, 'status': 'Picked', 'carrier': 'DHL', 'urgency': 2, 'area': 'Charminar', 'payment': 'Done', 'created_at': '2026-03-26T12:18:13.692Z'}
+2026-03-26 17:48:14,325 INFO 127.0.0.1 - - [26/Mar/2026 17:48:14] "[35m[1mPOST /orders HTTP/1.1[0m" 201 -
+2026-03-26 17:48:14,344 INFO \u2705 Order 8becbef5-12de-4c61-9e72-22c46813d1ab successfully saved to MongoDB
+2026-03-26 17:49:54,807 INFO 127.0.0.1 - - [26/Mar/2026 17:49:54] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:49:54,810 INFO 127.0.0.1 - - [26/Mar/2026 17:49:54] "OPTIONS /orders HTTP/1.1" 200 -
+2026-03-26 17:49:54,874 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:49:54,875 INFO 127.0.0.1 - - [26/Mar/2026 17:49:54] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:49:54,920 INFO \u2705 Fetched 50 orders for user admin
+2026-03-26 17:49:54,921 INFO 127.0.0.1 - - [26/Mar/2026 17:49:54] "GET /orders HTTP/1.1" 200 -
+2026-03-26 17:49:55,498 INFO 127.0.0.1 - - [26/Mar/2026 17:49:55] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:49:55,501 INFO 127.0.0.1 - - [26/Mar/2026 17:49:55] "OPTIONS /activity HTTP/1.1" 200 -
+2026-03-26 17:49:55,548 INFO \u2705 Fetched 31 activity logs
+2026-03-26 17:49:55,549 INFO 127.0.0.1 - - [26/Mar/2026 17:49:55] "GET /activity HTTP/1.1" 200 -
+2026-03-26 17:49:55,590 INFO \u2705 Fetched 31 activity logs
+2026-03-26 17:49:55,592 INFO 127.0.0.1 - - [26/Mar/2026 17:49:55] "GET /activity HTTP/1.1" 200 -

@@ -14,20 +14,22 @@ const Login = ({ setToken }) => {
         e.preventDefault();
         setLoading(true);
 
-        const formData = new URLSearchParams();
-        formData.append('username', user);
-        formData.append('password', pass);
-
         try {
-            const response = await fetch('http://localhost:8000/token', {
+            const response = await fetch('http://localhost:8001/token', {
                 method: 'POST',
                 headers: {
-                    'Content-Type': 'application/x-www-form-urlencoded',
+                    'Content-Type': 'application/json',
                 },
-                body: formData,
+                body: JSON.stringify({
+                    username: user,
+                    password: pass
+                }),
             });
 
             if (!response.ok) {
+                const err = await response.json();
+                console.error("LOGIN FAILED:", err);
+                console.error("Response Status:", response.status);
                 setError(true);
                 setLoading(false);
                 return;

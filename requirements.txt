@@ -1,4 +1,4 @@
-fastapi>=0.110.0
-uvicorn>=0.24.0
-pydantic>=2.8.0
-motor>=3.3.0
+fastapi
+uvicorn
+pydantic
+motor

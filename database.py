@@ -1,5 +1,5 @@
 import os
-from motor.motor_asyncio import AsyncIOMotorClient
+from pymongo import MongoClient
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -7,10 +7,37 @@ load_dotenv()
 # Securely fetch from .env
 MONGODB_URL = os.getenv("MONGODB_URL")
 
+if not MONGODB_URL:
+    print("❌ ERROR: MONGODB_URL not found in .env file!")
+    print("Please add MONGODB_URL=<your_connection_string> to .env")
+    raise ValueError("MONGODB_URL environment variable is required")
+
 try:
-    client = AsyncIOMotorClient(MONGODB_URL)
+    # Use synchronous pymongo client for Flask
+    client = MongoClient(
+        MONGODB_URL,
+        serverSelectionTimeoutMS=5000,
+        connectTimeoutMS=10000,
+        retryWrites=True,
+        maxPoolSize=20
+    )
+    
+    # Test connection
+    client.admin.command('ping')
+    
     db = client.logistics_db
     orders_collection = db.orders
-    print("Successfully connected to MongoDB Atlas! 🚀")
+    activity_collection = db.activity
+    feedback_collection = db.feedback
+    
+    print("✅ Successfully connected to MongoDB Atlas! 🚀")
+    print(f"📊 Database: {db.name}")
+    print(f"📦 Collections: orders, activity, feedback")
+    
 except Exception as e:
-    print(f"Could not connect to MongoDB: {e}")
+    print(f"❌ Could not connect to MongoDB: {e}")
+    print("🔍 Troubleshooting:")
+    print("  1. Verify MONGODB_URL in .env is correct")
+    print("  2. Check MongoDB Atlas cluster is active")
+    print("  3. Ensure IP whitelist includes your connection")
+    raise

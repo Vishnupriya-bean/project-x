@@ -44,10 +44,31 @@ async def get_user(username: str):
 
 async def authenticate_user(username: str, password: str):
     user = await get_user(username)
+    print("=" * 60)
+    print("🔍 AUTHENTICATION DEBUG")
+    print("=" * 60)
+    print(f"USERNAME RECEIVED: {username}")
+    print(f"USER FROM DB: {user}")
+    
     if not user:
+        print("❌ USER NOT FOUND IN DATABASE")
+        print("=" * 60)
         return None
-    if not verify_password(password, user.get("hashed_password", "")):
+    
+    print(f"\n📝 INPUT PASSWORD: {password}")
+    stored_hash = user.get("hashed_password", "")
+    print(f"🔐 STORED HASH: {stored_hash}")
+    
+    result = verify_password(password, stored_hash)
+    print(f"\n✅ VERIFY RESULT: {result}")
+    
+    if not result:
+        print("❌ PASSWORD VERIFICATION FAILED - Hash/Password Mismatch")
+        print("=" * 60)
         return None
+    
+    print("✅ AUTHENTICATION SUCCESSFUL")
+    print("=" * 60)
     return user
 
 
