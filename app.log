@@ -1593,3 +1593,127 @@ orders collection
 2026-03-26 17:49:55,549 INFO 127.0.0.1 - - [26/Mar/2026 17:49:55] "GET /activity HTTP/1.1" 200 -
 2026-03-26 17:49:55,590 INFO \u2705 Fetched 31 activity logs
 2026-03-26 17:49:55,592 INFO 127.0.0.1 - - [26/Mar/2026 17:49:55] "GET /activity HTTP/1.1" 200 -
+2026-03-26 22:21:23,056 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:21:23,092 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:21:23,114 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:21:23,115 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:21:23,115 INFO \U0001f3af Starting Flask API Server on port 8001...
+2026-03-26 22:21:23,168 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+2026-03-26 22:21:23,168 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 22:23:46,594 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:23:46,628 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:23:46,655 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:23:46,656 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:23:46,656 INFO \U0001f3af Starting Flask API Server on port 8001...
+2026-03-26 22:23:46,854 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://192.168.1.22:8001
+2026-03-26 22:23:46,854 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 22:23:46,854 INFO  * Restarting with stat
+2026-03-26 22:23:52,353 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:23:52,387 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:23:52,409 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:23:52,410 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:23:52,411 INFO \U0001f3af Starting Flask API Server on port 8001...
+2026-03-26 22:23:52,424 WARNING  * Debugger is active!
+2026-03-26 22:23:52,435 INFO  * Debugger PIN: 121-947-627
+2026-03-26 22:24:27,204 INFO  * Detected change in 'C:\\Users\\vishnupriya\\OneDrive\\Desktop\\experiment-project1\\main.py', reloading
+2026-03-26 22:24:28,129 INFO  * Restarting with stat
+2026-03-26 22:24:34,141 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:24:34,186 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:24:34,206 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:24:34,207 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:24:34,208 INFO \U0001f3af Starting Flask API Server on port 8001...
+2026-03-26 22:24:34,232 WARNING  * Debugger is active!
+2026-03-26 22:24:34,258 INFO  * Debugger PIN: 121-947-627
+2026-03-26 22:25:42,845 INFO  * Detected change in 'C:\\Users\\vishnupriya\\OneDrive\\Desktop\\experiment-project1\\main.py', reloading
+2026-03-26 22:25:43,501 INFO  * Restarting with stat
+2026-03-26 22:25:49,233 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:25:49,275 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:25:49,297 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:25:49,297 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:25:49,298 INFO \U0001f3af Starting Flask API Server on port 5000...
+2026-03-26 22:26:47,616 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:26:47,651 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:26:47,669 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:26:47,669 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:26:47,669 INFO \U0001f3af Starting Flask API Server on port 5000...
+2026-03-26 22:26:47,682 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.22:5000
+2026-03-26 22:26:47,682 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 22:27:46,280 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:27:46,314 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:27:46,332 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:27:46,333 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:27:46,334 INFO \U0001f3af Starting Flask API Server on port 5000...
+2026-03-26 22:27:46,349 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.22:5000
+2026-03-26 22:27:46,350 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 22:28:01,930 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:28:01,966 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:28:01,986 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:28:01,987 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:28:01,987 INFO \U0001f3af Starting Flask API Server on port 5000...
+2026-03-26 22:28:02,011 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.22:5000
+2026-03-26 22:28:02,012 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 22:31:18,733 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:31:18,771 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:31:18,800 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:31:18,800 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:31:18,801 INFO \U0001f3af Starting Flask API Server on 0.0.0.0:5000...
+2026-03-26 22:31:18,813 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.22:5000
+2026-03-26 22:31:18,814 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 22:32:16,854 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:32:16,895 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:32:16,916 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:32:16,917 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:32:16,918 INFO \U0001f3af Starting Flask API Server on 0.0.0.0:5000...
+2026-03-26 22:32:16,930 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.22:5000
+2026-03-26 22:32:16,931 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 22:35:28,140 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:35:28,176 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:35:28,195 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:35:28,196 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:35:28,198 INFO \U0001f3af Starting Flask API Server on 0.0.0.0:5000...
+2026-03-26 22:35:28,216 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.22:5000
+2026-03-26 22:35:28,217 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 22:45:07,258 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 22:45:07,292 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 22:45:07,310 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 22:45:07,311 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 22:45:07,313 INFO \U0001f3af Starting Flask API Server on 0.0.0.0:5000...
+2026-03-26 22:45:07,331 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.22:5000
+2026-03-26 22:45:07,331 INFO [33mPress CTRL+C to quit[0m
+2026-03-26 22:46:33,553 INFO 127.0.0.1 - - [26/Mar/2026 22:46:33] "GET / HTTP/1.1" 200 -
+2026-03-26 22:46:33,738 INFO 127.0.0.1 - - [26/Mar/2026 22:46:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-26 23:14:31,410 INFO \U0001f680 DATABASE CONNECTION: \u2705 Successfully connected to MongoDB
+2026-03-26 23:14:31,444 INFO \U0001f680 INDEXES: \u2705 Created indexes on orders collection
+2026-03-26 23:14:31,466 INFO \U0001f680 ORDERS IN DB: 97 orders available
+2026-03-26 23:14:31,467 INFO \U0001f680 SERVER READY: Application started successfully!
+2026-03-26 23:14:31,469 INFO \U0001f3af Starting Flask API Server on 0.0.0.0:5000...
+2026-03-26 23:14:31,485 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.22:5000
+2026-03-26 23:14:31,486 INFO [33mPress CTRL+C to quit[0m

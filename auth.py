@@ -3,9 +3,7 @@ from datetime import datetime, timedelta
 from typing import Optional
 
 from dotenv import load_dotenv
-from fastapi import Depends, HTTPException, status
-from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
-from jose import JWTError, jwt
+import jwt
 from passlib.context import CryptContext
 
 from database import db
@@ -15,8 +13,6 @@ load_dotenv()
 SECRET_KEY = os.getenv("SECRET_KEY", "HYDERABAD_LOGISTICS_SECRET")
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv("ACCESS_TOKEN_EXPIRE_MINUTES", "30"))
-
-oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/token")
 
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
@@ -37,13 +33,13 @@ def create_access_token(data: dict):
     return encoded_jwt
 
 
-async def get_user(username: str):
-    user = await db.users.find_one({"username": username})
+def get_user(username: str):
+    user = db.users.find_one({"username": username})
     return user
 
 
-async def authenticate_user(username: str, password: str):
-    user = await get_user(username)
+def authenticate_user(username: str, password: str):
+    user = get_user(username)
     print("=" * 60)
     print("🔍 AUTHENTICATION DEBUG")
     print("=" * 60)
@@ -72,25 +68,31 @@ async def authenticate_user(username: str, password: str):
     return user
 
 
-async def get_current_user(token: str = Depends(oauth2_scheme)):
-    credentials_exception = HTTPException(
-        status_code=status.HTTP_401_UNAUTHORIZED,
-        detail="Could not validate credentials",
-        headers={"WWW-Authenticate": "Bearer"},
-    )
+def get_current_user(token: str):
+    """Verify JWT token and return user"""
     try:
+        if not token:
+            return None
+        
+        # Remove 'Bearer ' prefix if present
+        if token.startswith("Bearer "):
+            token = token[7:]
+        
         payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
         username: str = payload.get("sub")
         if username is None:
-            raise credentials_exception
-    except JWTError:
-        raise credentials_exception
-    user = await get_user(username)
+            return None
+    except jwt.ExpiredSignatureError:
+        return None
+    except jwt.InvalidTokenError:
+        return None
+    
+    user = get_user(username)
     if user is None:
-        raise credentials_exception
+        return None
     return user
 
 
-async def get_current_active_user(current_user: dict = Depends(get_current_user)):
-    # placeholder for future status checks
-    return current_user
+def get_current_active_user(token: str):
+    """Get current active user from token"""
+    return get_current_user(token)

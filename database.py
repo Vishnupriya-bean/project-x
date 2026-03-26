@@ -5,17 +5,17 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Securely fetch from .env
-MONGODB_URL = os.getenv("MONGODB_URL")
+MONGO_URI = os.getenv("MONGO_URI")
 
-if not MONGODB_URL:
-    print("❌ ERROR: MONGODB_URL not found in .env file!")
-    print("Please add MONGODB_URL=<your_connection_string> to .env")
-    raise ValueError("MONGODB_URL environment variable is required")
+if not MONGO_URI:
+    print("❌ ERROR: MONGO_URI not found in .env file!")
+    print("Please add MONGO_URI=<your_connection_string> to .env")
+    raise ValueError("MONGO_URI environment variable is required")
 
 try:
     # Use synchronous pymongo client for Flask
     client = MongoClient(
-        MONGODB_URL,
+        MONGO_URI,
         serverSelectionTimeoutMS=5000,
         connectTimeoutMS=10000,
         retryWrites=True,
